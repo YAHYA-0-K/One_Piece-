@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "category": "organizations",
+            "tag": "revolutionary_army_org",
+            "patterns": [
+                "What is the Revolutionary Army?",
+                "Who leads the Revolutionaries?",
+                "Revolutionary Army members"
+            ],
+            "responses": [
+                "The Revolutionary Army is a military organization led by Monkey D. Dragon. Their primary objective is to overthrow the corrupt World Government, specifically the Celestial Dragons (World Nobles), rather than fighting the Marines directly. Major members include Chief of Staff Sabo, Emporio Ivankov, Koala, Hack, and commanders Karasu, Lindbergh, Belo Betty, and Morley."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Revolutionary_Army_Infobox.png/revision/latest?cb=20190131083517"
+        },
+        {
+            "category": "organizations",
+            "tag": "cipher_pol",
+            "patterns": [
+                "What is Cipher Pol?",
+                "CP9",
+                "CP0",
+                "World Government secret agents"
+            ],
+            "responses": [
+                "Cipher Pol is a series of World Government intelligence organizations. Agencies CP1 through CP8 are public, while CP9 and CP0 are secret. CP9 (led by Rob Lucci during Enies Lobby) was authorized to use deadly force under Rokushiki. CP0 (Aegis 0) is the absolute strongest intelligence agency, reporting directly to the Celestial Dragons and wearing white robes and masks."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/c6/CP0_Infobox.png/revision/latest/scale-to-width-down/445?cb=20240407021816"
+        },
+        {
+            "category": "organizations",
+            "tag": "sword",
+            "patterns": [
+                "What is SWORD?",
+                "SWORD members",
+                "Marine secret unit"
+            ],
+            "responses": [
+                "SWORD is a secret Marine Special Force unit. Its members are Marines who have formally submitted their resignations, allowing them to operate freely without World Government permission. This means they can attack Yonko or go rogue, but the Marines can disavow and abandon them at any time. Members include Koby, Helmeppo, X Drake, Prince Grus, Hibari, and Kujaku, with Sengoku and Garp closely allied."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Sword_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230430031352"
+        },
+        {
+            "category": "organizations",
+            "tag": "cross_guild",
+            "patterns": [
+                "What is Cross Guild?",
+                "Who founded Cross Guild?",
+                "Marine hunting organization"
+            ],
+            "responses": [
+                "Cross Guild is a powerful new organization formed after the abolition of the Warlord system. Founded by Sir Crocodile and Dracule Mihawk, they mistakenly placed Buggy the Clown as their figurehead leader due to a Marine misunderstanding. They have shook the world by issuing bounties on Marines, reversing the traditional dynamic of pirates being hunted by the government."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/0a/Cross_Guild_Portrait.png/revision/latest/scale-to-width-down/500?cb=20240329103404"
+        },
+        {
+            "category": "organizations",
+            "tag": "baroque_works",
+            "patterns": [
+                "What is Baroque Works?",
+                "Who is Mr 0?",
+                "Baroque Works members"
+            ],
+            "responses": [
+                "Baroque Works was a criminal syndicate created by Sir Crocodile to conquer the kingdom of Alabasta and find the ancient weapon Pluton. Eaters and agents were designated by codenames (Mr. 0 down to Mr. 13, and Miss Doublefinger to Miss Friday). It was disbanded following Crocodile's defeat by Luffy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/92/Baroque_Works_Infobox.png/revision/latest/scale-to-width-down/500?cb=20090415082729"
+        }
+    ]
+}

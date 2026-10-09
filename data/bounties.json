@@ -1,0 +1,94 @@
+{
+    "intents": [
+        {
+            "category": "bounties",
+            "tag": "bounty_system",
+            "patterns": [
+                "What is a bounty?",
+                "How are bounties determined?",
+                "Highest bounty in history",
+                "One Piece bounty system"
+            ],
+            "responses": [
+                "Bounties are cash rewards issued by the World Government for the capture or death of criminals, particularly pirates. They reflect a person's threat level to the government's authority and public safety, rather than purely physical strength. The highest bounty in history belongs to the Pirate King, Gol D. Roger, at 5,564,800,000 Berries."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Bounty_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250521001403"
+        },
+        {
+            "category": "bounties",
+            "tag": "luffy_bounty",
+            "patterns": [
+                "What is Luffy's bounty?",
+                "Luffy bounty history",
+                "Luffy current bounty",
+                "Luffy berry count"
+            ],
+            "responses": [
+                "Monkey D. Luffy's current bounty is 3,000,000,000 Berries, issued after he defeated Kaido in Wano Country. His bounty progression is: \n- 30,000,000 (after Arlong Park)\n- 100,000,000 (after Alabasta)\n- 300,000,000 (after Enies Lobby)\n- 400,000,000 (after Marineford)\n- 500,000,000 (after Dressrosa)\n- 1,500,000,000 (after Whole Cake Island)\n- 3,000,000,000 (after Wano)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/85/Straw_Hat_Pirates_Current_Bounties.png/revision/latest/scale-to-width-down/500?cb=20161204145101"
+        },
+        {
+            "category": "bounties",
+            "tag": "straw_hat_bounties",
+            "patterns": [
+                "What are the bounties of the Straw Hats?",
+                "Zoro bounty",
+                "Sanji bounty",
+                "Nami bounty",
+                "Usopp bounty",
+                "Robin bounty",
+                "Chopper bounty",
+                "Jinbe bounty",
+                "Franky bounty",
+                "Brook bounty"
+            ],
+            "responses": [
+                "The Straw Hat Pirates' post-Wano bounties are: \n- Luffy: 3,000,000,000 Berries\n- Zoro: 1,111,000,000 Berries\n- Jinbe: 1,100,000,000 Berries\n- Sanji: 1,032,000,000 Berries\n- Robin: 930,000,000 Berries\n- Usopp: 500,000,000 Berries\n- Franky: 394,000,000 Berries\n- Brook: 383,000,000 Berries\n- Nami: 366,000,000 Berries\n- Chopper: 1,000 Berries (hilariously misidentified as the crew's pet)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/85/Straw_Hat_Pirates_Current_Bounties.png/revision/latest/scale-to-width-down/500?cb=20161204145101"
+        },
+        {
+            "category": "bounties",
+            "tag": "yonko_bounties",
+            "patterns": [
+                "What are the bounties of the Yonko?",
+                "Shanks bounty",
+                "Blackbeard bounty",
+                "Kaido bounty",
+                "Big Mom bounty",
+                "Buggy bounty"
+            ],
+            "responses": [
+                "The bounties of the Yonko (current and former) are: \n- Shanks: 4,048,900,000 Berries\n- Buggy the Clown: 3,189,000,000 Berries (issued due to his assumed control over Mihawk and Crocodile in Cross Guild)\n- Marshall D. Teach (Blackbeard): 3,996,000,000 Berries (recently raised from 2,247,600,000)\n- Luffy: 3,000,000,000 Berries\n- Kaido (former): 4,611,100,000 Berries\n- Big Mom (former): 4,388,000,000 Berries"
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Four_Emperors_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240915110859"
+        },
+        {
+            "category": "bounties",
+            "tag": "legendary_bounties",
+            "patterns": [
+                "Gol D. Roger bounty",
+                "Whitebeard bounty",
+                "Roger and Whitebeard bounties"
+            ],
+            "responses": [
+                "The two highest bounties in pirate history are: \n1. Gol D. Roger (Pirate King): 5,564,800,000 Berries.\n2. Edward Newgate (Whitebeard): 5,046,000,000 Berries. Both are deceased, and these records have yet to be broken by any living pirate."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Bounty_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250521001403"
+        },
+        {
+            "category": "bounties",
+            "tag": "mihawk_bounty",
+            "patterns": [
+                "Mihawk bounty",
+                "Dracule Mihawk berry bounty",
+                "World's strongest swordsman bounty"
+            ],
+            "responses": [
+                "Dracule Mihawk's current bounty is 3,590,000,000 Berries. It was revealed after the abolition of the Warlords and the creation of Cross Guild. This makes his bounty higher than active Yonko like Luffy and Buggy, reflecting his status as the World's Strongest Swordsman and a threat equivalent to an Emperor."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20151222105910"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "intents": [
+        {
+            "category": "mysteries",
+            "tag": "giant_straw_hat",
+            "patterns": [
+                "Giant straw hat in Mariejois",
+                "What is the straw hat Imu is holding?",
+                "Mariejois vault straw hat"
+            ],
+            "responses": [
+                "[SPOILER WARNING] A massive, frozen straw hat is kept in a high-security vault in the holy land of Mariejois. Imu was seen visiting it while holding Luffy's bounty poster. Its origin, purpose, and relationship to Joy Boy or the original straw hat remain completely unrevealed in canon."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b2/Straw_Hat.png/revision/latest/scale-to-width-down/500?cb=20231119104349"
+        },
+        {
+            "category": "mysteries",
+            "tag": "luffy_mother",
+            "patterns": [
+                "Who is Luffy's mother?",
+                "Monkey D Luffy mother",
+                "Is Luffy's mother alive?"
+            ],
+            "responses": [
+                "Luffy's mother is completely unknown. She has never been named or shown in the manga. Oda has mentioned in interviews that he isn't interested in detailing Luffy's mother, stating that a boy's adventure begins when he leaves his mother behind, and that she would likely be a strict, non-ideal mother."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/239?cb=20260611004637"
+        },
+        {
+            "category": "mysteries",
+            "tag": "crocodiles_secret",
+            "patterns": [
+                "What is Crocodile's secret?",
+                "Ivankov and Crocodile secret",
+                "Crocodile gender theory"
+            ],
+            "responses": [
+                "During the Impel Down Arc, Emporio Ivankov revealed they know a major secret about Sir Crocodile's past, which Crocodile went to great lengths to hide, forcing him to comply with Luffy's escape plan. Popular fan speculation suggests Ivankov used their Horu Horu no Mi (Hormone Fruit) to change Crocodile's gender, but this remains a theory and is unconfirmed."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20230125235528"
+        },
+        {
+            "category": "mysteries",
+            "tag": "mariejois_treasure",
+            "patterns": [
+                "What is the national treasure of Mariejois?",
+                "Mariejois national treasure",
+                "Doflamingo secret national treasure"
+            ],
+            "responses": [
+                "Donquixote Doflamingo revealed that a 'secret national treasure' is hidden inside Mariejois, and its existence is so dangerous that the Celestial Dragons would do anything to keep it secret. He stated that if combined with the Ope Ope no Mi's Perpetual Youth Surgery, it would allow someone to conquer the world. Its exact nature is currently unknown."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Mary_Geoise_Infobox.png/revision/latest/scale-to-width-down/500?cb=20190519084915"
+        }
+    ]
+}

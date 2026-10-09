@@ -1,0 +1,211 @@
+{
+    "intents": [
+        {
+            "category": "world_lore",
+            "tag": "void_century",
+            "patterns": [
+                "What is the Void Century?",
+                "Blank Century",
+                "What happened 800 years ago?",
+                "Void Century history"
+            ],
+            "responses": [
+                "The Void Century (Blank Century) is a 100-year gap in recorded history that occurred roughly 800 to 900 years before the current storyline. The World Government strictly forbids studying this period. It is known that a great war took place between a highly advanced 'Ancient Kingdom' and an alliance of 20 kingdoms (which later became the World Government). The true history of this century is written on Poneglyphs scattered across the globe."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b5/Great_Kingdom_Vs_Ancient_Alliance.png/revision/latest/scale-to-width-down/500?cb=20240303054037"
+        },
+        {
+            "category": "world_lore",
+            "tag": "joy_boy",
+            "patterns": [
+                "Who is Joy Boy?",
+                "Joyboy",
+                "Tell me about Joy Boy",
+                "Is Luffy Joy Boy?"
+            ],
+            "responses": [
+                "Joy Boy is a legendary figure from the Void Century who left behind a treasure of immeasurable value on the final island, Laugh Tale. He promised the fish-men he would return to fulfill an ancient oath. In Wano, it was revealed that 'Joy Boy' is a title rather than a single person, associated with the awakening of the Hito Hito no Mi, Model: Nika, leading Zunesha to declare that Luffy is Joy Boy when he unlocks Gear 5."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Joy_Boy_Anime_Infobox.png/revision/latest/scale-to-width-down/452?cb=20251221044647"
+        },
+        {
+            "category": "world_lore",
+            "tag": "ancient_kingdom",
+            "patterns": [
+                "What is the Ancient Kingdom?",
+                "Advanced kingdom of Void Century",
+                "Kingdom from 800 years ago"
+            ],
+            "responses": [
+                "The Ancient Kingdom was a vast, powerful, and technologically advanced nation that existed during the Void Century. It was destroyed by an alliance of 20 kingdoms, which subsequently formed the World Government to wipe out all traces of its existence. Professor Clover of Ohara hypothesized that its ideals were so revolutionary that the alliance deemed them a threat. Its actual name remains unrevealed."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/59/Great_Kingdom_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220913100250"
+        },
+        {
+            "category": "world_lore",
+            "tag": "world_government",
+            "patterns": [
+                "What is the World Government?",
+                "Who controls the World Government?",
+                "World Government ruling body"
+            ],
+            "responses": [
+                "The World Government is a political regime that rules the vast majority of the world, comprising over 170 member nations. It was established at the end of the Void Century by 20 founding kingdoms. Nominally, it is led by the Gorosei (Five Elders) and maintains order via the Marines, but it is secretly ruled by a mysterious, absolute dictator known as Imu."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/a/a1/World_Government_Infobox.png/revision/latest/scale-to-width-down/500?cb=20221116004624"
+        },
+        {
+            "category": "world_lore",
+            "tag": "celestial_dragons",
+            "patterns": [
+                "Who are the Celestial Dragons?",
+                "World Nobles",
+                "Tenryubito",
+                "Tell me about Celestial Dragons"
+            ],
+            "responses": [
+                "The Celestial Dragons (World Nobles or Tenryubito) are the direct descendants of the nineteen of the twenty kings who founded the World Government (excluding the Nefertari family of Alabasta). They reside in the holy land of Mariejois. They wield absolute authority, own slaves, view themselves as gods, and wear spacesuit-like bubbles to avoid breathing the same air as commoners. Attacking one triggers an immediate Marine Admiral deployment."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/ea/World_Noble_Infobox.png/revision/latest/scale-to-width-down/374?cb=20250205200451"
+        },
+        {
+            "category": "world_lore",
+            "tag": "imu",
+            "patterns": [
+                "Who is Imu?",
+                "Im-sama",
+                "Who sits on the Empty Throne?",
+                "Leader of the World Government"
+            ],
+            "responses": [
+                "Imu (Im-sama) is the secret, supreme ruler of the World Government. He sits on the Empty Throne, which was supposedly meant to represent equality among the founding nations. Imu's existence is hidden from the general public. He possesses immense power, controls the Gorosei, and has the ability to wipe entire islands off the map (as seen with Lulusia Kingdom)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d4/Nerona_Imu_Manga_Infobox.png/revision/latest/scale-to-width-down/387?cb=20260419150637"
+        },
+        {
+            "category": "world_lore",
+            "tag": "gorosei",
+            "patterns": [
+                "Who are the Gorosei?",
+                "Five Elders",
+                "Gorosei members",
+                "Five Elder Stars"
+            ],
+            "responses": [
+                "The Gorosei (Five Elders) are the highest-ranking Celestial Dragons who act as the public heads of the World Government. They are: Saint Jaygarcia Saturn (Scientific Defense), Saint Marcus Mars (Environment), Saint Topman Warcury (Justice), Saint Ethanbaron V. Nusjuro (Finance), and Saint Shepherd Ju Peter (Agriculture). They possess horrific, demonic transformations and rapid regeneration, and they answer only to Imu."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/57/Current_Five_elders.png/revision/latest/scale-to-width-down/500?cb=20251228161429"
+        },
+        {
+            "category": "world_lore",
+            "tag": "poneglyphs",
+            "patterns": [
+                "What are Poneglyphs?",
+                "Road Poneglyphs",
+                "Rio Poneglyph",
+                "How many Poneglyphs are there?"
+            ],
+            "responses": [
+                "Poneglyphs are indestructible stone blocks created by the Kozuki Family of Wano during the Void Century, inscribed with ancient writing. There are roughly 30 in total. They are split into: \n1. Historical Poneglyphs: Reveal history of the Void Century.\n2. Instructional Poneglyphs: Give locations of other blocks or Ancient Weapons.\n3. Road Poneglyphs (4 red blocks): When all four are deciphered, they intersect to reveal the coordinates of Laugh Tale."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/8d/Poneglyph_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230812031937"
+        },
+        {
+            "category": "world_lore",
+            "tag": "ancient_weapons",
+            "patterns": [
+                "What are the Ancient Weapons?",
+                "Pluton",
+                "Poseidon",
+                "Uranus",
+                "Three Ancient Weapons"
+            ],
+            "responses": [
+                "The Ancient Weapons are three weapons of mass destruction capable of destroying the world, dating back to the Void Century: \n1. Pluton: A massive battleship hidden beneath Wano Country.\n2. Poseidon: A mermaid born once every few centuries who can communicate with and control the giant Sea Kings (currently Princess Shirahoshi of Fish-Man Island).\n3. Uranus: A sky-based weapon of mass destruction controlled by Imu and the World Government, powered by Vegapunk's Mother Flame."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/a/aa/Ancient_Weapons_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230303150728"
+        },
+        {
+            "category": "world_lore",
+            "tag": "will_of_d",
+            "patterns": [
+                "What is the Will of D?",
+                "D initial",
+                "Meaning of D",
+                "Natural enemies of God"
+            ],
+            "responses": [
+                "The 'Will of D' is a mystery surrounding individuals who carry the letter 'D' in their middle name (e.g., Monkey D. Luffy, Gol D. Roger, Marshall D. Teach). They are referred to by the Celestial Dragons as the 'Natural Enemies of God.' Those with the 'D.' initial are known to cause major upheavals in history and are famously seen smiling at their own deaths."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Will_of_D._Infobox.png/revision/latest/scale-to-width-down/312?cb=20250815231011"
+        },
+        {
+            "category": "world_lore",
+            "tag": "one_piece_treasure",
+            "patterns": [
+                "What is the One Piece?",
+                "What is Gold Roger's treasure?",
+                "Is the One Piece real?",
+                "Laugh Tale treasure"
+            ],
+            "responses": [
+                "The One Piece is the legendary treasure hidden at the end of the Grand Line on the island of Laugh Tale, left behind by Joy Boy. When Gol D. Roger found it, he and his crew laughed, naming the island 'Laugh Tale.' Oda has confirmed that the treasure is a physical reward rather than a conceptual one ('the friends we made along the way'). Whitebeard famously confirmed with his dying breath: 'The One Piece is real!'"
+            ],
+            "image": null
+        },
+        {
+            "category": "world_lore",
+            "tag": "god_valley",
+            "patterns": [
+                "What was the God Valley Incident?",
+                "God Valley history",
+                "What happened at God Valley?"
+            ],
+            "responses": [
+                "The God Valley Incident occurred 38 years ago on an island called God Valley. It was a massive conflict where Marine Vice Admiral Monkey D. Garp and Pirate Captain Gol D. Roger formed a temporary alliance to defeat the Rocks Pirates, who were attacking Celestial Dragons and their slaves. The island was subsequently wiped from all maps and erased from history by the World Government."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/God_Valley_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250601222809"
+        },
+        {
+            "category": "world_lore",
+            "tag": "yonko",
+            "patterns": [
+                "Who are the Yonko?",
+                "Four Emperors",
+                "New Yonko",
+                "Emperors of the Sea"
+            ],
+            "responses": [
+                "The Yonko (Four Emperors) are the four strongest pirate captains ruling the New World. They are not allies, but their presence maintains a political balance. Originally they were Shanks, Whitebeard, Kaido, and Big Mom. Following the Wano War and events, the current Yonko are: Shanks, Marshall D. Teach (Blackbeard), Monkey D. Luffy, and Buggy the Clown (serving as the figurehead of Cross Guild)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/23/Four_Emperors_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240915110859"
+        },
+        {
+            "category": "world_lore",
+            "tag": "warlords",
+            "patterns": [
+                "Who are the Seven Warlords?",
+                "Shichibukai",
+                "Warlords of the Sea",
+                "Warlord system"
+            ],
+            "responses": [
+                "The Shichibukai (Seven Warlords of the Sea) were an alliance of powerful pirates who allied with the World Government. In exchange for pardons and freedom to pirate other crews, they agreed to help the Marines when summoned. Famous members included Mihawk, Crocodile, Doflamingo, Jinbe, Hancock, Kuma, and Moria. The system was officially abolished during the recent Reverie due to Warlord conspiracies in Alabasta and Dressrosa, replaced by Marine Seraphim pacifistas."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Seven_Warlords_of_the_Sea_Infobox.png/revision/latest/scale-to-width-down/307?cb=20210111173353"
+        },
+        {
+            "category": "world_lore",
+            "tag": "worst_generation",
+            "patterns": [
+                "What is the Worst Generation?",
+                "Supernovas",
+                "Super rookies"
+            ],
+            "responses": [
+                "The Worst Generation is a term used to describe twelve infamous rookie pirates who arrived at Sabaody Archipelago before the Summit War with bounties exceeding 100,000,000 berries, plus Marshall D. Teach (Blackbeard). They are: Luffy, Zoro, Law, Kid, Killer, Capone Bege, Jewelry Bonney, Basil Hawkins, Scratchmen Apoo, X Drake, Urouge, and Blackbeard."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/6e/Worst_Generation_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220406052554"
+        }
+    ]
+}

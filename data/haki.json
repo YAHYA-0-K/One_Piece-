@@ -1,0 +1,63 @@
+{
+    "intents": [
+        {
+            "category": "haki",
+            "tag": "haki_overview",
+            "patterns": [
+                "What is Haki?",
+                "Explain Haki",
+                "How does Haki work?",
+                "What are the types of Haki?"
+            ],
+            "responses": [
+                "Haki is a dormant power present in all living beings, described as the ability to sense spiritual energy and overpower enemies. It is essential for fighting Logia Devil Fruit users in the New World. Haki is divided into three types: Observation Haki (Kenbunshoku), Armament Haki (Busoshoku), and Conqueror's Haki (Haoshoku)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Haki_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240123175535"
+        },
+        {
+            "category": "haki",
+            "tag": "observation_haki",
+            "patterns": [
+                "What is Observation Haki?",
+                "Kenbunshoku Haki",
+                "Future Sight",
+                "Advanced Observation Haki",
+                "Seeing the future"
+            ],
+            "responses": [
+                "Observation Haki (Kenbunshoku Haki) allows the user to sense the presence, strength, and emotions of others, as well as predict their movements. Highly trained users can unlock 'Future Sight,' allowing them to see a few seconds into the future. Famous Future Sight users include Charlotte Katakuri, Monkey D. Luffy, and Shanks."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Observation_Haki.png/revision/latest/scale-to-width-down/500?cb=20230207024426"
+        },
+        {
+            "category": "haki",
+            "tag": "armament_haki",
+            "patterns": [
+                "What is Armament Haki?",
+                "Busoshoku Haki",
+                "Advanced Armament Haki",
+                "What is Ryuo?",
+                "Internal Destruction Haki"
+            ],
+            "responses": [
+                "Armament Haki (Busoshoku Haki) allows the user to create an invisible armor of spiritual energy around themselves to boost defense and attack, and bypass Devil Fruit intangibility (coating weapons or body parts in a shiny black layer). In Wano, advanced Armament is called 'Ryuo.' Advanced forms include 'Emission' (shooting Haki outward without contact) and 'Internal Destruction' (sending Haki directly inside a target to destroy it from within)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Armament_Haki_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230411041925"
+        },
+        {
+            "category": "haki",
+            "tag": "conquerors_haki",
+            "patterns": [
+                "What is Conqueror's Haki?",
+                "Haoshoku Haki",
+                "Who has Conqueror's Haki?",
+                "Advanced Conqueror's Haki",
+                "Conqueror's coating"
+            ],
+            "responses": [
+                "Conqueror's Haki (Haoshoku Haki) is an extremely rare form of Haki that cannot be trained; only one in a million people are born with it. It allows the user to exert their willpower to knock out weak-willed enemies. Extremely powerful warriors can use 'Advanced Conqueror's Haki' (Conqueror's Coating), infusing their physical attacks or weapons with Conqueror's energy, which manifests as black lightning and allows them to hit targets without making physical contact. Users include Roger, Whitebeard, Kaido, Shanks, Luffy, and Zoro."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e2/Supreme_King_Haki_Infobox.gif/revision/latest?cb=20121003013517"
+        }
+    ]
+}

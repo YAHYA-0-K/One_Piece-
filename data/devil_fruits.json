@@ -1,0 +1,133 @@
+{
+    "intents": [
+        {
+            "category": "devil_fruits",
+            "tag": "devil_fruits_overview",
+            "patterns": [
+                "What is a Devil Fruit?",
+                "Explain Devil Fruits",
+                "How do Devil Fruits work?",
+                "Types of Devil Fruits",
+                "Devil Fruit classification"
+            ],
+            "responses": [
+                "Devil Fruits are mystical, mysterious fruits found throughout the world that grant the eater a specific superhuman power or ability, at the cost of losing their ability to swim (making them sink like an anchor in water) and being weakened by Sea Prism Stone (Seastone). They are divided into three main classes: Paramecia, Zoan, and Logia."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/92/Devil_Fruit_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240421115906"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "paramecia",
+            "patterns": [
+                "What is a Paramecia?",
+                "Paramecia class",
+                "Explain Paramecia Devil Fruits",
+                "Paramecia examples"
+            ],
+            "responses": [
+                "Paramecia is the most common of the three Devil Fruit classes. It grants the user superhuman physical abilities or allows them to alter their body or manipulate their environment. Unlike Logia, Paramecia eaters do not transform their entire body into an element. Examples include the Gura Gura no Mi (Quake), Ope Ope no Mi (Operation), and Hana Hana no Mi (Flower)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/1/1a/Paramecia_Infobox.png/revision/latest/scale-to-width-down/500?cb=20231005225157"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "zoan",
+            "patterns": [
+                "What is a Zoan?",
+                "Zoan class",
+                "Explain Zoan Devil Fruits",
+                "Zoan transformation"
+            ],
+            "responses": [
+                "Zoan Devil Fruits allow the user to transform into an animal species and gain the animal's physical traits. Zoan users can access three forms: Human Form, Beast Form, and Hybrid Form. They are exceptionally suited for close combat because they boost physical strength. Examples include the Hito Hito no Mi (Human Fruit eaten by Chopper) and the Neko Neko no Mi, Model: Leopard (eaten by Rob Lucci)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Ushi_Ushi_no_Mi%2C_Model_Bison_Human-Beast_Form.png/revision/latest?cb=20230116202007"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "logia",
+            "patterns": [
+                "What is a Logia?",
+                "Logia class",
+                "Explain Logia Devil Fruits",
+                "Logia intangibility"
+            ],
+            "responses": [
+                "Logia is the rarest and generally most powerful of the three main Devil Fruit classes. It allows the user to fully transform their body's composition into a natural element, manipulate that element, and create it. It grants intangibility against physical attacks, which pass right through them unless the attacker uses Armament Haki or exploits an elemental weakness. Examples include the Mera Mera no Mi (Fire), Hie Hie no Mi (Ice), and Goro Goro no Mi (Lightning)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Logia_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220328100112"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "mythical_zoan",
+            "patterns": [
+                "What is a Mythical Zoan?",
+                "Mythical Zoan class",
+                "Rarest type of Zoan",
+                "Mythical Zoan examples"
+            ],
+            "responses": [
+                "Mythical Zoan is an extremely rare and powerful sub-class of Zoan Devil Fruits. They allow the user to transform into mythical creatures (such as dragons, phoenixes, or gods) and grant unique magical abilities on top of the standard Zoan physical boosts. Examples include Marco's Tori Tori no Mi, Model: Phoenix, Kaido's Azure Dragon fruit, and Luffy's Hito Hito no Mi, Model: Nika."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/5f/Ushi_Ushi_no_Mi%2C_Model_Bison_Human-Beast_Form.png/revision/latest?cb=20230116202007"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "devil_fruit_awakening",
+            "patterns": [
+                "What is Devil Fruit awakening?",
+                "Awakening explanation",
+                "How do you awaken a Devil Fruit?",
+                "Awakened Devil Fruits"
+            ],
+            "responses": [
+                "Devil Fruit Awakening is a rare state where the user's mind and body catch up to their fruit's power, unleashing its true potential. For Paramecias, it usually allows the user to affect their surroundings (e.g., Doflamingo and Katakuri turning things to string/mochi). For Zoans, it dramatically increases physical strength, speed, and recovery rate, but risks having the animal mind consume the user's personality unless they maintain control (as Luffy and Lucci do)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/92/Devil_Fruit_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240421115906"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "luffy_devil_fruit",
+            "patterns": [
+                "What is Luffy's Devil Fruit?",
+                "Is Gomu Gomu no Mi rubber?",
+                "Hito Hito no Mi Model Nika",
+                "Luffy fruit real name",
+                "Sun God Nika fruit"
+            ],
+            "responses": [
+                "Initially known as the Paramecia Gomu Gomu no Mi (Gum-Gum Fruit), it was revealed in Wano to be the Mythical Zoan Hito Hito no Mi, Model: Nika (Human-Human Fruit, Model: Nika). The World Government hid its true name because it represents the Sun God Nika, the Warrior of Liberation, who brings joy and freedom. Awakening it unlocks Gear 5, granting rubber-like properties to everything Luffy touches and complete combat freedom."
+            ],
+            "image": null
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "blackbeard_devil_fruits",
+            "patterns": [
+                "What is Blackbeard's Devil Fruit?",
+                "How does Blackbeard have two devil fruits?",
+                "Yami Yami no Mi",
+                "Blackbeard two fruits"
+            ],
+            "responses": [
+                "Marshall D. Teach (Blackbeard) is the only person in history to wield two Devil Fruit powers. His primary fruit is the Logia Yami Yami no Mi (Darkness-Darkness Fruit), which allows him to manipulate gravity and nullify other Devil Fruit powers upon contact, but he cannot turn intangible. His secondary fruit is the Paramecia Gura Gura no Mi (Quake-Quake Fruit), which he stole from Whitebeard's corpse using an unknown technique. Marco speculated this is due to Blackbeard's 'atypical body structure' that doesn't sleep."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Yami_Yami_no_Mi_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240627010252"
+        },
+        {
+            "category": "devil_fruits",
+            "tag": "law_devil_fruit",
+            "patterns": [
+                "What is Law's Devil Fruit?",
+                "Ope Ope no Mi",
+                "Op-Op Fruit",
+                "Ultimate Devil Fruit",
+                "Perpetual Youth Surgery"
+            ],
+            "responses": [
+                "Trafalgar Law ate the Paramecia Ope Ope no Mi (Op-Op Fruit), known as the 'Ultimate Devil Fruit.' It allows him to create a spherical space called a 'Room' where he can manipulate, swap, and slice objects and people in a surgical manner. Its most legendary power is the 'Perpetual Youth Surgery,' which grants eternal youth to another person in exchange for the fruit user's life."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Ope_Ope_no_Mi_Infobox.png/revision/latest/scale-to-width-down/469?cb=20210409181034"
+        }
+    ]
+}

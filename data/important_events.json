@@ -1,0 +1,74 @@
+{
+    "intents": [
+        {
+            "category": "important_events",
+            "tag": "summit_war",
+            "patterns": [
+                "What was the Summit War?",
+                "Marineford War details",
+                "Summit War of Marineford",
+                "What happened at Marineford?"
+            ],
+            "responses": [
+                "The Summit War of Marineford was the largest conflict since the Great Pirate Era began, fought between the Whitebeard Pirates (plus their allies and Luffy's escapee group) and the entire Marine force alongside the Warlords of the Sea. Triggered by Ace's capture, it ended with the tragic deaths of Portgas D. Ace and Whitebeard, the rise of Blackbeard as a dual-fruit-wielding Yonko, and a two-year hiatus where the Straw Hats trained."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Summit_War_of_Marineford_Infobox.png/revision/latest/scale-to-width-down/500?cb=20160218022129"
+        },
+        {
+            "category": "important_events",
+            "tag": "rocky_port_incident",
+            "patterns": [
+                "What was the Rocky Port Incident?",
+                "Rocky Port Incident details",
+                "Who was involved in Rocky Port?",
+                "Rocky Port Incident Law Koby Blackbeard"
+            ],
+            "responses": [
+                "The Rocky Port Incident was a major battle that occurred during the two-year time skip, masterminded by Trafalgar Law (who earned Warlord status by presenting 100 pirate hearts to the Marines). Marine Captain Koby protected the citizens during the incident, earning the title 'Hero of the Marines.' Secretly, Blackbeard used the chaos to defeat former Rocks Pirate member Ochoku and seize control of Hachinosu (Pirate Island) with Koby's indirect assistance."
+            ],
+            "image": null
+        },
+        {
+            "category": "important_events",
+            "tag": "reverie",
+            "patterns": [
+                "What happened at the Reverie?",
+                "Reverie events",
+                "King Cobra's death",
+                "Sabo and Cobra"
+            ],
+            "responses": [
+                "The recent Reverie (World Council of Kings) in Mariejois had world-changing consequences: \n1. The Seven Warlords system was officially abolished.\n2. Sabo and the Revolutionary Commanders infiltrated and declared war, rescuing Kuma.\n3. King Nefertari Cobra of Alabasta was assassinated by Imu and the Gorosei after asking about Lily and the Will of D., with the murder pinned on Sabo.\n4. Wano princess Vivi escaped with Morgans and Wapol."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/a/a7/Cobra_Yells_at_Wapol.png/revision/latest/scale-to-width-down/500?cb=20230213184839"
+        },
+        {
+            "category": "important_events",
+            "tag": "raid_on_onigashima",
+            "patterns": [
+                "What was the Raid on Onigashima?",
+                "Onigashima raid details",
+                "Battle of Wano",
+                "How was Kaido defeated?"
+            ],
+            "responses": [
+                "The Raid on Onigashima was a massive military operation in Wano Country. An alliance of Wano Samurai (the Akazaya Nine), the Mink Tribe, the Straw Hat Pirates, the Heart Pirates, and the Kid Pirates invaded Kaido's fortress during the Fire Festival. The battle culminated in Zoro defeating King, Sanji defeating Queen, Law and Kid awakening their fruits to defeat Big Mom, and Luffy unlocking Gear 5 to defeat Kaido."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/6a/Raid_on_Onigashima_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220802161726"
+        },
+        {
+            "category": "important_events",
+            "tag": "lulusia_destruction",
+            "patterns": [
+                "What happened to Lulusia Kingdom?",
+                "Lulusia destruction",
+                "Imu destroys Lulusia",
+                "Mother Flame weapon"
+            ],
+            "responses": [
+                "The Lulusia Kingdom was completely obliterated from existence by the World Government. After Sabo attempted to contact the Revolutionaries from the island, Imu used a mysterious sky-based Ancient Weapon (likely Uranus), powered by Vegapunk's Mother Flame, to rain down massive beams of light, vaporizing the island and causing global sea levels to rise by one meter. The Gorosei ordered history records to state Lulusia never existed."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Lulusia_Kingdom_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240107020559"
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Line Chronicles - One Piece Knowledge Navigator</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Outfit:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <!-- Ambient Canvas for ocean wave and starfield background (Continuous across both views) -->
+    <canvas id="ambient-bg"></canvas>
+
+    <!-- ================================================================= -->
+    <!-- INTERACTIVE HOMEPAGE / HERO SCREEN VIEW                           -->
+    <!-- ================================================================= -->
+    <section class="hero-screen" id="hero-screen">
+        <div class="hero-card">
+            <!-- Hero Top Brand Emblem & Crest -->
+            <div class="hero-crest">
+                <div class="hero-compass-wrapper" id="hero-compass-wrap">
+                    <i class="fa-solid fa-compass hero-compass-icon"></i>
+                    <span class="hero-skull-icon">☠️</span>
+                </div>
+                <div class="hero-badge">Log Pose Ready &bull; One Piece AI Navigator</div>
+            </div>
+
+            <!-- Welcome Banner -->
+            <h1 class="hero-title">GRAND LINE CHRONICLES</h1>
+            <p class="hero-subtitle">THE DEFINITIVE ONE PIECE AI KNOWLEDGE NAVIGATOR</p>
+
+            <!-- Immersive Lore Description -->
+            <p class="hero-description">
+                Chart your course across the Grand Line and New World. Consult the AI Log Pose on legendary pirate
+                crews,
+                mysterious Devil Fruits, ancient Haki powers, world government secrets, bounties, and centuries of lost
+                history.
+            </p>
+
+            <!-- Topic Showcase Cards -->
+            <div class="hero-topics-grid">
+                <div class="hero-topic-card" data-topic="straw_hats">
+                    <div class="topic-icon-wrap"><i class="fa-solid fa-user-group"></i></div>
+                    <div class="topic-info">
+                        <h4>Characters & Crews</h4>
+                        <p>Straw Hats, Yonko & Marines</p>
+                    </div>
+                </div>
+                <div class="hero-topic-card" data-topic="devil_fruits">
+                    <div class="topic-icon-wrap"><i class="fa-solid fa-circle-nodes"></i></div>
+                    <div class="topic-info">
+                        <h4>Devil Fruits</h4>
+                        <p>Paramecia, Zoan & Logia</p>
+                    </div>
+                </div>
+                <div class="hero-topic-card" data-topic="haki_powers">
+                    <div class="topic-icon-wrap"><i class="fa-solid fa-fire-flame-curved"></i></div>
+                    <div class="topic-info">
+                        <h4>Haki Mastery</h4>
+                        <p>Conqueror's, Armament & Sight</p>
+                    </div>
+                </div>
+                <div class="hero-topic-card" data-topic="bounties">
+                    <div class="topic-icon-wrap"><i class="fa-solid fa-coins"></i></div>
+                    <div class="topic-info">
+                        <h4>Bounties & Ranks</h4>
+                        <p>Cross Guild & Bounty Posters</p>
+                    </div>
+                </div>
+                <div class="hero-topic-card" data-topic="world_history_lore">
+                    <div class="topic-icon-wrap"><i class="fa-solid fa-book-open"></i></div>
+                    <div class="topic-info">
+                        <h4>Ancient Lore</h4>
+                        <p>Joy Boy, Void Century & Weapons</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sample Starter Prompts Section -->
+            <div class="hero-prompts-section">
+                <span class="hero-prompts-label">
+                    <i class="fa-solid fa-compass"></i> Popular Coordinates to Inquire:
+                </span>
+                <div class="hero-chips" id="hero-chips-container">
+                    <button class="hero-chip" data-query="Who is Joy Boy?">Who is Joy Boy?</button>
+                    <button class="hero-chip" data-query="When does Gear 5 appear?" title="Class-Omega Prohibition"><i
+                            class="fa-solid fa-triangle-exclamation"
+                            style="color: #ef4444; font-size: 10px; margin-right: 4px;"></i>Gear 5</button>
+                    <button class="hero-chip" data-query="What is Luffy's current bounty?">Luffy's bounty</button>
+                    <button class="hero-chip" data-query="What is Conqueror's Haki?">Conqueror's Haki</button>
+                    <button class="hero-chip" data-query="Tell me about the Void Century."
+                        title="Classified Buster Call Intercept"><i class="fa-solid fa-skull-crossbones"
+                            style="color: #ef4444; font-size: 10px; margin-right: 4px;"></i>Void Century</button>
+                    <button class="hero-chip" data-query="Who are the Five Elders?">The Gorosei</button>
+                </div>
+            </div>
+
+            <!-- Call to Action Button -->
+            <div class="hero-cta-wrap">
+                <button class="hero-cta-btn" id="hero-cta-btn" aria-label="Enter Grand Line Chat">
+                    <i class="fa-solid fa-anchor"></i>
+                    <span>Set Sail &bull; Enter Grand Line</span>
+                    <i class="fa-solid fa-arrow-right cta-arrow"></i>
+                </button>
+            </div>
+
+            <!-- Status Footer Pill -->
+            <div class="hero-status-pill">
+                <span class="pulse"></span>
+                <span>Log Pose Calibrated &bull; Scikit-Learn Knowledge Engine Active</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ================================================================= -->
+    <!-- MAIN CHAT APPLICATION CONTAINER                                   -->
+    <!-- ================================================================= -->
+    <div class="app-container app-hidden" id="chat-app-container">
+        <!-- Mobile Sidebar Drawer Overlay -->
+        <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+        <!-- Sidebar Navigation Drawer -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <!-- Glowing rotating Log Pose compass brand -->
+                <div class="brand-compass-wrapper" id="brand-compass-wrap" title="Return to Port View">
+                    <div class="log-pose-housing">
+                        <i class="fa-solid fa-compass compass-icon" id="brand-compass"></i>
+                        <span class="log-pose-center-gem"></span>
+                    </div>
+                </div>
+                <div class="sidebar-header-titles">
+                    <h2>Log Pose</h2>
+                    <span class="log-pose-subtitle"><i class="fa-solid fa-anchor"></i> GRAND LINE &bull; 360&deg;</span>
+                </div>
+            </div>
+
+            <!-- Return to Port Quick Action Button -->
+            <div class="sidebar-port-nav">
+                <button class="return-port-btn" id="return-port-btn">
+                    <i class="fa-solid fa-compass"></i> Return to Port View
+                </button>
+            </div>
+
+            <div class="sidebar-section">
+                <h3><i class="fa-solid fa-anchor"></i> Categories</h3>
+                <ul class="category-list">
+                    <li class="category-item" data-category="straw_hats">
+                        <i class="fa-solid fa-user-group"></i> Straw Hats
+                    </li>
+                    <li class="category-item" data-category="devil_fruits">
+                        <i class="fa-solid fa-circle-nodes"></i> Devil Fruits
+                    </li>
+                    <li class="category-item" data-category="haki_powers">
+                        <i class="fa-solid fa-fire-flame-curved"></i> Haki Powers
+                    </li>
+                    <li class="category-item" data-category="world_history_lore">
+                        <i class="fa-solid fa-book-open"></i> World History & Lore
+                    </li>
+                    <li class="category-item" data-category="grand_line_locations">
+                        <i class="fa-solid fa-map-location-dot"></i> Grand Line Locations
+                    </li>
+                    <li class="category-item" data-category="legends_pirates">
+                        <i class="fa-solid fa-crown"></i> Legends & Pirates
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Developer/AI Diagnostic Sidebar Panel -->
+            <div class="sidebar-section">
+                <h3><i class="fa-solid fa-circle-info"></i> Navigation Info</h3>
+                <div class="info-card" id="metadata-card">
+                    <p class="info-placeholder">No message sent yet. Ask a question to analyze coordinates.</p>
+                    <div class="info-stats" style="display: none;">
+                        <div class="stat-row">
+                            <span class="stat-label">Detected Intent:</span>
+                            <span class="stat-value" id="val-intent">-</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">Confidence:</span>
+                            <span class="stat-value" id="val-confidence">-</span>
+                        </div>
+                        <div class="progress-bar-container">
+                            <div class="progress-bar-fill" id="val-progress"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <button class="clear-btn" id="clear-chat-btn"><i class="fa-solid fa-trash-can"></i> Clear Log</button>
+            </div>
+        </aside>
+
+        <!-- Main Chat Navigation Panel -->
+        <main class="chat-area">
+            <!-- Header -->
+            <header class="chat-header">
+                <div class="header-left">
+                    <button class="mobile-menu-toggle" id="mobile-menu-btn" aria-label="Open Navigation Menu">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="header-title">
+                        <h1>GRAND LINE CHRONICLES</h1>
+                        <p>One Piece AI Knowledge Navigator</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button class="header-port-btn" id="header-port-btn" title="Return to Port View">
+                        <i class="fa-solid fa-ship"></i> Port View
+                    </button>
+                    <span class="status-indicator"><span class="pulse"></span> Online</span>
+                </div>
+            </header>
+
+            <!-- Messages Window -->
+            <div class="chat-window" id="chat-window">
+                <!-- Welcoming Cinematic Section / Category Portal -->
+                <div class="welcome-container" id="welcome-container">
+                    <!-- Wide Ensemble Visual Header -->
+                    <div class="welcome-hero-wrapper">
+                        <img id="welcome-hero-img" src="https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+                            alt="Grand Line Ensemble" class="welcome-hero-img" loading="lazy">
+                        <div class="welcome-hero-overlay"></div>
+                    </div>
+
+                    <div class="welcome-compass-logo">
+                        <i class="fa-solid fa-compass compass-logo-icon"></i>
+                        <span class="skull-overlay">☠️</span>
+                    </div>
+
+                    <h1 class="welcome-title" id="welcome-title">GRAND LINE CHRONICLES</h1>
+                    <h3 class="welcome-subtitle" id="welcome-subtitle">ONE PIECE AI KNOWLEDGE NAVIGATOR</h3>
+
+                    <h2 class="welcome-message" id="welcome-message">Welcome, Nakama!</h2>
+
+                    <p class="welcome-description" id="welcome-description">Ask me anything about the vast world of One
+                        Piece, its characters, arcs, Devil Fruits, Haki, bounties, locations, and mysteries.</p>
+
+                    <div class="suggested-chips-wrapper">
+                        <div class="suggested-chips" id="suggested-chips-container">
+                            <!-- Question chips dynamically generated or populated by default -->
+                            <button class="chip" data-question="Who is Luffy?" style="--chip-idx: 0">Who is
+                                Luffy?</button>
+                            <button class="chip" data-question="When does Gear 5 appear?" style="--chip-idx: 1"><i
+                                    class="fa-solid fa-triangle-exclamation"
+                                    style="color: #ef4444; font-size: 11px; margin-right: 5px;"></i>When does Gear 5
+                                appear?</button>
+                            <button class="chip" data-question="What is Haki?" style="--chip-idx: 2">What is
+                                Haki?</button>
+                            <button class="chip" data-question="Who is Joy Boy?" style="--chip-idx: 3">Who is Joy
+                                Boy?</button>
+                            <button class="chip" data-question="Tell me about Shanks." style="--chip-idx: 4">Tell me
+                                about Shanks.</button>
+                            <button class="chip" data-question="What is the Void Century?" style="--chip-idx: 5"><i
+                                    class="fa-solid fa-skull-crossbones"
+                                    style="color: #ef4444; font-size: 11px; margin-right: 5px;"></i>What is the Void
+                                Century?</button>
+                        </div>
+                    </div>
+
+                    <!-- Return to Chat Log Toggle Action -->
+                    <button id="return-to-chat-btn" class="return-chat-btn" style="display: none;">
+                        <i class="fa-solid fa-comments"></i> Return to Active Chat
+                    </button>
+                </div>
+
+                <!-- Chat Message Stream -->
+                <div class="message-list" id="message-list" style="display: none;"></div>
+
+                <!-- Typing / Log Pose Processing indicator -->
+                <div class="typing-indicator-wrapper" id="typing-indicator" style="display: none;">
+                    <div class="compass-mini-spinner">
+                        <i class="fa-solid fa-compass spinner-icon"></i>
+                    </div>
+                    <div class="typing-details">
+                        <span class="typing-status" id="typing-status-text">Reading the Grand Line...</span>
+                        <div class="typing-dots">
+                            <span class="dot"></span>
+                            <span class="dot"></span>
+                            <span class="dot"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Controls -->
+            <div class="input-area">
+                <div class="input-wrapper">
+                    <input type="text" id="chat-input"
+                        placeholder="Type your query to the navigator, nakama... (e.g. Who is Joy Boy?)"
+                        autocomplete="off">
+                    <button class="send-btn" id="send-btn" aria-label="Send query">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Centralized assets config followed by app script -->
+    <script src="{{ url_for('static', filename='config.js') }}"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

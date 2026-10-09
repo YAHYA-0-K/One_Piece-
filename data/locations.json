@@ -1,0 +1,99 @@
+{
+    "intents": [
+        {
+            "category": "locations",
+            "tag": "grand_line",
+            "patterns": [
+                "What is the Grand Line?",
+                "Red Line",
+                "Calm Belt",
+                "Reverse Mountain",
+                "How to enter the Grand Line"
+            ],
+            "responses": [
+                "The Grand Line is a vast, treacherous ocean current that runs perpendicular to the Red Line (a massive continent wrapping the globe). It is flanked by the Calm Belts (seas with no wind and populated by giant Sea Kings, making normal travel impossible). Pirates enter the Grand Line via Reverse Mountain, where water flows uphill. Weather and navigation are erratic, requiring a Log Pose to navigate between islands."
+            ],
+            "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+        },
+        {
+            "category": "locations",
+            "tag": "laugh_tale",
+            "patterns": [
+                "Where is Laugh Tale?",
+                "Raftel",
+                "Final island of the Grand Line",
+                "How to find Laugh Tale"
+            ],
+            "responses": [
+                "Laugh Tale (originally translated as Raftel) is the final island of the Grand Line. It is the only island where the legendary One Piece treasure is located. Finding the island requires locating and deciphering all four red Road Poneglyphs, which reveal coordinates that intersect at Laugh Tale's location. The Roger Pirates are the only ones known to have reached it in the last 800 years."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/50/Laugh_Tale_Infobox.png/revision/latest/scale-to-width-down/500?cb=20190720071407"
+        },
+        {
+            "category": "locations",
+            "tag": "wano_country",
+            "patterns": [
+                "Where is Wano?",
+                "Wano Country geography",
+                "Land of Wano"
+            ],
+            "responses": [
+                "Wano Country is an isolationist nation in the New World, famous for its samurai and ninja. It is geographically isolated atop a massive waterfall, making entry dangerous (requiring climbing the waterfall via giant koi fish). It is not affiliated with the World Government. It was ruled by Shogun Kurozumi Orochi and Kaido, but is now under Shogun Kozuki Momonosuke."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Wano_Country_Present.png/revision/latest/scale-to-width-down/500?cb=20231110020148"
+        },
+        {
+            "category": "locations",
+            "tag": "dressrosa",
+            "patterns": [
+                "Where is Dressrosa?",
+                "Dressrosa location",
+                "Kingdom of Dressrosa"
+            ],
+            "responses": [
+                "Dressrosa is a vibrant, Spanish-inspired island kingdom in the New World. It was ruled by Warlord Donquixote Doflamingo, who used the powers of Sugar's Hobi Hobi no Mi to turn dissenters into toy citizens and erase them from their families' memories. It is currently ruled by King Riku Dold III."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Dressrosa_Infobox.png/revision/latest/scale-to-width-down/500?cb=20221116144641"
+        },
+        {
+            "category": "locations",
+            "tag": "whole_cake_island",
+            "patterns": [
+                "Where is Whole Cake Island?",
+                "Totto Land islands",
+                "Big Mom territory"
+            ],
+            "responses": [
+                "Whole Cake Island is the main island of Totto Land, the archipelago territory of Yonko Big Mom. The island is composed of giant desserts, with rivers of juice and structures made of cake. Big Mom aimed to create a utopia where all races coexist, though she extracts a portion of citizens' life spans as 'rent' using her Devil Fruit."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Whole_Cake_Island_Infobox.png/revision/latest?cb=20181021025602"
+        },
+        {
+            "category": "locations",
+            "tag": "egghead_island",
+            "patterns": [
+                "Where is Egghead?",
+                "Egghead Island location",
+                "Island of the Future"
+            ],
+            "responses": [
+                "Egghead Island, known as the 'Island of the Future,' is a futuristic research facility located in the New World. It is owned by the World Government and serves as the primary laboratory of Dr. Vegapunk. It features advanced technology, holograms, giant robots, and weather control."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Egghead_Infobox.png/revision/latest/scale-to-width-down/456?cb=20250428024126"
+        },
+        {
+            "category": "locations",
+            "tag": "government_strongholds",
+            "patterns": [
+                "Marineford",
+                "Enies Lobby location",
+                "Impel Down location",
+                "Tarai Current"
+            ],
+            "responses": [
+                "The three primary strongholds of the World Government in Paradise are Marineford (military), Enies Lobby (judiciary), and Impel Down (prison). They form a triangle connected by a giant ocean vortex called the Tarai Current, which can only be navigated through the Gates of Justice."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Enies_Lobby_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220506032308"
+        }
+    ]
+}

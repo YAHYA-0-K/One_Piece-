@@ -1,0 +1,227 @@
+{
+    "intents": [
+        {
+            "category": "arcs",
+            "tag": "arcs_overview",
+            "patterns": [
+                "What are the main sagas in One Piece?",
+                "List of One Piece arcs",
+                "How is the story of One Piece divided?",
+                "Story sagas"
+            ],
+            "responses": [
+                "One Piece is structured into major sagas: \n1. East Blue Saga\n2. Alabasta Saga\n3. Sky Island (Skypiea) Saga\n4. Water 7 / Enies Lobby Saga\n5. Thriller Bark Saga\n6. Summit War Saga (Sabaody to Marineford)\n7. Fish-Man Island Saga\n8. Dressrosa Saga (Punk Hazard & Dressrosa)\n9. Four Emperors (Yonko) Saga (Zou, Whole Cake Island, Wano)\n10. Final Saga (starting with Egghead)."
+            ],
+            "image": null
+        },
+        {
+            "category": "arcs",
+            "tag": "east_blue",
+            "patterns": [
+                "East Blue Arc",
+                "East Blue Saga",
+                "Where does One Piece start?",
+                "Tell me about East Blue"
+            ],
+            "responses": [
+                "The East Blue Saga is the introductory saga of One Piece. It covers Luffy setting sail, gathering his first four crew members (Zoro, Nami, Usopp, and Sanji), defeating local pirate lords (Alvida, Buggy, Kuro, Don Krieg, and Arlong), and escaping Loguetown to enter the Grand Line."
+            ],
+            "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+        },
+        {
+            "category": "arcs",
+            "tag": "alabasta",
+            "patterns": [
+                "Alabasta Arc",
+                "Alabasta Saga",
+                "What is the Alabasta Arc about?",
+                "Whiskey Peak",
+                "Little Garden",
+                "Drum Island"
+            ],
+            "responses": [
+                "The Alabasta Saga is the second saga of One Piece. It follows the Straw Hats helping Princess Nefertari Vivi save her desert kingdom of Alabasta from the criminal organization Baroque Works, led by Warlord Crocodile. It marks the debut of Tony Tony Chopper and Nico Robin joining the crew."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/29/Arabasta_Kingdom_Infobox.png/revision/latest?cb=20240103024400"
+        },
+        {
+            "category": "arcs",
+            "tag": "skypiea",
+            "patterns": [
+                "Skypiea Arc",
+                "Sky Island Saga",
+                "What is Skypiea about?",
+                "Jaya Arc"
+            ],
+            "responses": [
+                "The Sky Island Saga (including Jaya and Skypiea) takes the Straw Hats thousands of meters into the sky to a legendary land above the clouds. There, they discover a golden city and clash with Eneru, a tyrant who claims to be a god, while resolving a centuries-old war between the Shandians and Skypieans."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/44/Skypiea_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240828012701"
+        },
+        {
+            "category": "arcs",
+            "tag": "water_7_enies_lobby",
+            "patterns": [
+                "Water 7 Arc",
+                "Enies Lobby Arc",
+                "What is the Enies Lobby Saga about?",
+                "CP9 Arc",
+                "Robin rescue arc"
+            ],
+            "responses": [
+                "The Water 7 and Enies Lobby Saga is one of the most acclaimed arcs in One Piece. It focuses on the Straw Hats confronting the World Government's assassination group, CP9, to rescue Nico Robin. Key events include the tragic retirement of the Going Merry, Franky building the Thousand Sunny and joining, and Luffy developing Gear 2 and Gear 3."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/93/Water_7_Infobox.png/revision/latest/scale-to-width-down/500?cb=20160819212754"
+        },
+        {
+            "category": "arcs",
+            "tag": "thriller_bark",
+            "patterns": [
+                "Thriller Bark Arc",
+                "What happens in Thriller Bark?",
+                "Gekko Moria arc"
+            ],
+            "responses": [
+                "The Thriller Bark Saga takes the crew into a haunted region of the ocean inside a massive pirate ship-island. They battle Warlord Gekko Moria, who steals shadows to create a zombie army. The arc introduces Brook, features Zoro's legendary 'Nothing Happened' sacrifice, and showcases the debut of the Nightmare Luffy form."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/3/37/Thriller_Bark_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230118010929"
+        },
+        {
+            "category": "arcs",
+            "tag": "sabaody",
+            "patterns": [
+                "Sabaody Archipelago Arc",
+                "Sabaody Arc",
+                "What happens at Sabaody?"
+            ],
+            "responses": [
+                "The Sabaody Archipelago Arc marks a major turning point. The Straw Hats confront the Celestial Dragons and are completely defeated and separated by Warlord Bartholomew Kuma. It introduces the Worst Generation supernovas, Silvers Rayleigh, and Admiral Kizaru."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/ca/Sabaody_Archipelago_Infobox.png/revision/latest/scale-to-width-down/500?cb=20151021143218"
+        },
+        {
+            "category": "arcs",
+            "tag": "impel_down",
+            "patterns": [
+                "Impel Down Arc",
+                "Luffy in Impel Down",
+                "What is Impel Down about?"
+            ],
+            "responses": [
+                "The Impel Down Arc follows Luffy infiltrating the World Government's maximum-security underwater prison to rescue his brother, Portgas D. Ace. He fails to catch Ace before he is transferred but escapes with a giant alliance, including Jinbe, Crocodile, Buggy, and Ivankov."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e3/Impel_Down_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240228080446"
+        },
+        {
+            "category": "arcs",
+            "tag": "marineford",
+            "patterns": [
+                "Marineford Arc",
+                "Summit War of Marineford",
+                "Ace execution arc",
+                "What is the Marineford Arc?"
+            ],
+            "responses": [
+                "The Marineford Arc is the climax of the first half of One Piece. A massive war erupts between the Whitebeard Pirates (allied with Luffy and escapees) and the entire Marine force alongside the Warlords to stop Ace's execution. Tragically, both Ace and Whitebeard are killed, and the era shifts as Blackbeard steals Whitebeard's fruit."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/db/G-1_Infobox.png/revision/latest/scale-to-width-down/500?cb=20130207051044"
+        },
+        {
+            "category": "arcs",
+            "tag": "fishman_island",
+            "patterns": [
+                "Fish-Man Island Arc",
+                "Fishman Island Arc",
+                "First arc after the time skip"
+            ],
+            "responses": [
+                "The Fish-Man Island Arc is the first story arc after the two-year time skip. The reunified Straw Hats travel 10,000 meters under the sea, showcasing their new powers by stopping a coup by Hody Jones and his New Fish-Man Pirates. Luffy declares Fish-Man Island under his protection, defying Big Mom."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/7/78/Fish-Man_Island_Infobox.png/revision/latest/scale-to-width-down/500?cb=20241201020830"
+        },
+        {
+            "category": "arcs",
+            "tag": "punk_hazard",
+            "patterns": [
+                "Punk Hazard Arc",
+                "What happens in Punk Hazard?",
+                "Caesar Clown arc"
+            ],
+            "responses": [
+                "The Punk Hazard Arc begins the alliance between Luffy and Trafalgar Law to take down Yonko Kaido. They navigate a hazard island split between fire and ice, shut down Caesar Clown's SAD factory (which produces artificial SMILE Devil Fruits), and rescue kidnapped children."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Punk_Hazard_Infobox.png/revision/latest/scale-to-width-down/500?cb=20150211161528"
+        },
+        {
+            "category": "arcs",
+            "tag": "dressrosa",
+            "patterns": [
+                "Dressrosa Arc",
+                "What is the Dressrosa Arc about?",
+                "Doflamingo arc",
+                "Luffy Gear 4 debut arc"
+            ],
+            "responses": [
+                "The Dressrosa Arc features a massive battle to overthrow Warlord Donquixote Doflamingo. Key events include Luffy entering the Colosseum for Ace's Mera Mera no Mi, the return of Sabo, Luffy's debut of Gear 4, the creation of the Straw Hat Grand Fleet, and the reveal of the dark truth behind Dressrosa's toy inhabitants."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/06/Dressrosa_Infobox.png/revision/latest/scale-to-width-down/500?cb=20221116144641"
+        },
+        {
+            "category": "arcs",
+            "tag": "zou",
+            "patterns": [
+                "Zou Arc",
+                "What is the Zou Arc about?",
+                "Mink Tribe arc"
+            ],
+            "responses": [
+                "The Zou Arc takes place on the back of a giant 1,000-year-old elephant, Zunesha. The Straw Hats meet the Mink Tribe, learn that Sanji was forced to leave for an arranged marriage to Big Mom's daughter, and discover the Road Poneglyphs which reveal the path to Laugh Tale."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/7/72/Zou_Infobox.png/revision/latest/scale-to-width-down/500?cb=20160911164033"
+        },
+        {
+            "category": "arcs",
+            "tag": "whole_cake_island",
+            "patterns": [
+                "Whole Cake Island Arc",
+                "Sanji rescue arc",
+                "Luffy vs Katakuri arc",
+                "Totto Land"
+            ],
+            "responses": [
+                "The Whole Cake Island Arc is a rescue mission where Luffy infiltrates Yonko Big Mom's territory to retrieve Sanji. Luffy battles Charlotte Katakuri (developing future-sight Observation Haki), retrieves a rubbing of Big Mom's Road Poneglyph, and escapes, leading the news to declare him the unofficial 'Fifth Emperor'."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Whole_Cake_Island_Infobox.png/revision/latest?cb=20181021025602"
+        },
+        {
+            "category": "arcs",
+            "tag": "wano",
+            "patterns": [
+                "Wano Arc",
+                "Wano Country Arc",
+                "Luffy vs Kaido arc",
+                "Raid on Onigashima",
+                "Gear 5 debut arc"
+            ],
+            "responses": [
+                "The Wano Country Arc is the longest and most epic arc in the series. Allied with the samurai of the Kozuki Clan, the Minks, and Law and Kid, the Straw Hats launch a raid on Onigashima to overthrow Kaido and Kurozumi Orochi. The climax features Luffy unlocking Gear 5, the defeat of Kaido and Big Mom, and Wano starting to open its borders."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e0/Wano_Country_Present.png/revision/latest/scale-to-width-down/500?cb=20231110020148"
+        },
+        {
+            "category": "arcs",
+            "tag": "egghead",
+            "patterns": [
+                "Egghead Arc",
+                "Egghead Island Arc",
+                "Vegapunk arc",
+                "What is the Egghead Arc?",
+                "First arc of final saga"
+            ],
+            "responses": [
+                "The Egghead Island Arc is the first arc of the Final Saga. The Straw Hats arrive at the futuristic island of Dr. Vegapunk, the World Government's genius scientist. The World Government orders Vegapunk's assassination, prompting a massive battle involving CP0, Admiral Kizaru, and Saint Jaygarcia Saturn of the Gorosei, culminating in a global message revealing the truth of the world."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/07/Egghead_Infobox.png/revision/latest/scale-to-width-down/456?cb=20250428024126"
+        }
+    ]
+}

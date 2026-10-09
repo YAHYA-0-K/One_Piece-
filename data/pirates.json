@@ -1,0 +1,74 @@
+{
+    "intents": [
+        {
+            "category": "pirates",
+            "tag": "pirate_king_concept",
+            "patterns": [
+                "Who is the Pirate King?",
+                "How do you become the Pirate King?",
+                "Pirate King definition",
+                "Who has been the Pirate King?"
+            ],
+            "responses": [
+                "The Pirate King (Kaizoku-O) is the title given to the strongest and most legendary pirate in the world who conquers the Grand Line and obtains the legendary treasure, the One Piece. Gol D. Roger is the only pirate in history to have officially claimed this title. Luffy's dream is to become the next Pirate King, which he defines as having the most freedom on the seas."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/2c/Pirate_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220419092926"
+        },
+        {
+            "category": "pirates",
+            "tag": "rocks_pirates",
+            "patterns": [
+                "Who were the Rocks Pirates?",
+                "Rocks D Xebec",
+                "Members of the Rocks Pirates",
+                "Rocks crew"
+            ],
+            "responses": [
+                "The Rocks Pirates were a legendary, extremely violent pirate crew led by Rocks D. Xebec, active 38 years ago before the God Valley Incident. They sought to rule the world. The crew was composed of individual monsters who would later become legends, including Edward Newgate (Whitebeard), Charlotte Linlin (Big Mom), Kaido of the Beasts, Golden Lion Shiki, Captain John, and Silver Axe."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Rocks_Pirates_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250525160011"
+        },
+        {
+            "category": "pirates",
+            "tag": "beast_pirates",
+            "patterns": [
+                "Tell me about the Beast Pirates",
+                "Kaido's crew members",
+                "Three Disasters",
+                "King Queen Jack"
+            ],
+            "responses": [
+                "The Beast Pirates were a massive military pirate force led by Yonko Kaido. They occupied Wano Country. The top commanders are the 'Three Disasters': King the Conflagration (a Lunarian named Alber), Queen the Plague (a cybernetic scientist), and Jack the Drought. Below them are the Tobi Roppo (Flying Six), and a massive army of Gifters who ate artificial SMILE Zoan Devil Fruits."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Beasts_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20230328221201"
+        },
+        {
+            "category": "pirates",
+            "tag": "big_mom_pirates",
+            "patterns": [
+                "Tell me about the Big Mom Pirates",
+                "Charlotte Linlin crew",
+                "Sweet Commanders",
+                "Katakuri Smoothie Cracker"
+            ],
+            "responses": [
+                "The Big Mom Pirates are a powerful crew consisting almost entirely of Yonko Charlotte Linlin's children, based in Totto Land. The crew is led by the Sweet Commanders: Charlotte Katakuri, Charlotte Smoothie, and Charlotte Cracker (formerly Charlotte Snack). They are known for their food-themed Devil Fruit powers and their massive intelligence gathering network."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Big_Mom_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20190705081936"
+        },
+        {
+            "category": "pirates",
+            "tag": "straw_hat_grand_fleet",
+            "patterns": [
+                "What is the Straw Hat Grand Fleet?",
+                "Luffy's fleet",
+                "Who is in the Straw Hat Grand Fleet?",
+                "Straw Hat alliance"
+            ],
+            "responses": [
+                "The Straw Hat Grand Fleet is an alliance formed in Dressrosa by seven pirate crews who pledged their loyalty to Monkey D. Luffy. It totalizes 5,600 members. The representatives are Cavendish (Beautiful Pirates), Bartolomeo (Barto Club), Sai (Happo Navy), Ideo (Ideo Pirates), Leo (Tontatta Pirates), Hajrudin (Giant Warrior Pirates), and Orlumbus (Yonta Maria Grand Fleet). Luffy did not want to lead them, but they drank the sake anyway."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/95/The_Stories_of_the_Self-Proclaimed_Straw_Hat_Grand_Fleet.png/revision/latest/scale-to-width-down/448?cb=20231120190216"
+        }
+    ]
+}

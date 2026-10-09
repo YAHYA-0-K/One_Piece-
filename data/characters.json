@@ -1,0 +1,433 @@
+{
+    "intents": [
+        {
+            "category": "characters",
+            "tag": "luffy",
+            "patterns": [
+                "Who is Luffy?",
+                "Monkey D Luffy",
+                "Tell me about Luffy",
+                "Luffy backstory",
+                "Who is the protagonist of One Piece?"
+            ],
+            "responses": [
+                "Monkey D. Luffy is the founder and captain of the Straw Hat Pirates and the senior captain of straw hat grant fleet  and the main protagonist of One Piece. He ate the Gomu Gomu no Mi (revealed to be the Mythical Zoan Hito Hito no Mi, Model: Nika), which gave him rubber powers. He aims to find the One Piece and become the Pirate King. He is the son of Revolutionary leader Monkey D. Dragon and grandson of Marine Hero Monkey D. Garp."
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/9/310307.jpg"
+        },
+        {
+            "category": "characters",
+            "tag": "zoro",
+            "patterns": [
+                "Who is Zoro?",
+                "Roronoa Zoro",
+                "Tell me about Zoro",
+                "Zoro backstory",
+                "Who is the first mate of the Straw Hats?"
+            ],
+            "responses": [
+                "Roronoa Zoro, known as the 'Pirate Hunter,' is the first member to join the Straw Hat Pirates and the crew's chief swordsman. He fights using the Three Sword Style (Santoryu), holding his third sword in his mouth. His dream is to defeat Dracule Mihawk and become the World's Strongest Swordsman, keeping a promise to his childhood friend, Kuina."
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/3/100534.jpg"
+        },
+        {
+            "category": "characters",
+            "tag": "nami",
+            "patterns": [
+                "Who is Nami?",
+                "Cat Burglar Nami",
+                "Tell me about Nami",
+                "Nami navigator"
+            ],
+            "responses": [
+                "Nami is the navigator of the Straw Hat Pirates. Known as 'Cat Burglar' Nami, she is highly intelligent and skilled in cartography and meteorology. Her dream is to draw a complete map of the entire world. She fights using the Sorcery Clima-Tact, which manipulates the weather."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/68/Nami_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/298?cb=20260315214841"
+        },
+        {
+            "category": "characters",
+            "tag": "usopp",
+            "patterns": [
+                "Who is Usopp?",
+                "God Usopp",
+                "Sogeking",
+                "Tell me about Usopp"
+            ],
+            "responses": [
+                "Usopp is the sniper of the Straw Hat Pirates. Known for his tall tales and cowardly nature, Usopp's dream is to become a 'brave warrior of the sea' and visit Elbaf. Under his alter-ego 'Sogeking' or as 'God Usopp,' he shows incredible marksman skills using his slingshot, Kabuto, and Pop Green seeds."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/3/35/Usopp_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/269?cb=20221127233827"
+        },
+        {
+            "category": "characters",
+            "tag": "sanji",
+            "patterns": [
+                "Who is Sanji?",
+                "Vinsmoke Sanji",
+                "Black Leg Sanji",
+                "Tell me about Sanji"
+            ],
+            "responses": [
+                "Vinsmoke Sanji, born as a prince of the Germa Kingdom, is the chef of the Straw Hat Pirates. He fights exclusively using his legs to protect a chef's hands and follows a strict code of chivalry, refusing to ever hit a woman. His dream is to find the All Blue, a legendary ocean where fish from all four seas coexist."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b6/Sanji_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/167?cb=20240122012744"
+        },
+        {
+            "category": "characters",
+            "tag": "chopper",
+            "patterns": [
+                "Who is Chopper?",
+                "Tony Tony Chopper",
+                "Tell me about Chopper",
+                "Chopper doctor"
+            ],
+            "responses": [
+                "Tony Tony Chopper is the doctor of the Straw Hat Pirates. He is a reindeer who ate the Hito Hito no Mi (Human-Human Fruit), giving him human intelligence and speech. His dream is to become a doctor capable of curing any disease. He uses Rumble Balls to access various point transformations."
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/3/481977.jpg"
+        },
+        {
+            "category": "characters",
+            "tag": "robin",
+            "patterns": [
+                "Who is Nico Robin?",
+                "Devil Child Nico Robin",
+                "Tell me about Robin",
+                "Robin archaeologist"
+            ],
+            "responses": [
+                "Nico Robin is the archaeologist of the Straw Hat Pirates and the only known survivor of the island of Ohara. She ate the Hana Hana no Mi (Flower-Flower Fruit), allowing her to sprout body parts on any surface. Her dream is to find the Rio Poneglyph and learn the true history of the Void Century."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/bc/Nico_Robin_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/278?cb=20260913163501"
+        },
+        {
+            "category": "characters",
+            "tag": "franky",
+            "patterns": [
+                "Who is Franky?",
+                "Cutty Flam",
+                "Tell me about Franky",
+                "Franky shipwright"
+            ],
+            "responses": [
+                "Franky (born Cutty Flam) is the shipwright of the Straw Hat Pirates. He is a cyborg powered by cola who built the Thousand Sunny. His dream is to construct a ship that can sail to the end of the Grand Line, and he joins the crew to witness the Sunny accomplish this feat."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/8c/Franky_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/500?cb=20241110020715"
+        },
+        {
+            "category": "characters",
+            "tag": "brook",
+            "patterns": [
+                "Who is Brook?",
+                "Soul King Brook",
+                "Tell me about Brook",
+                "Brook musician"
+            ],
+            "responses": [
+                "Brook is the musician and second swordsman of the Straw Hat Pirates. He is a skeleton who ate the Yomi Yomi no Mi (Revive-Revive Fruit), allowing his soul to return to his body after death. His dream is to reunite with Laboon, the giant island whale they left at Reverse Mountain 50 years ago."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Brook_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/214?cb=20161016160925"
+        },
+        {
+            "category": "characters",
+            "tag": "jinbe",
+            "patterns": [
+                "Who is Jinbe?",
+                "First Knight of the Sea Jinbe",
+                "Tell me about Jinbe",
+                "Jinbe helmsman"
+            ],
+            "responses": [
+                "Jinbe, the 'First Knight of the Sea,' is a whale shark fish-man and the helmsman of the Straw Hat Pirates. He is a former Warlord of the Sea and captain of the Sun Pirates. He is a master of Fish-Man Karate and dreams of fulfilling the promise of coexistence between humans and fish-men."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest/scale-to-width-down/392?cb=20170521201349"
+        },
+        {
+            "category": "characters",
+            "tag": "shanks",
+            "patterns": [
+                "Who is Shanks?",
+                "Red Hair Shanks",
+                "Tell me about Shanks",
+                "Shanks abilities"
+            ],
+            "responses": [
+                "Red Hair Shanks is the captain of the Red Hair Pirates and one of the Yonko (Four Emperors) ruling the New World. He was an apprentice on Gol D. Roger's ship. Shanks is the pirate who inspired Luffy to set sail and gave him his trademark Straw Hat. He possesses extremely powerful Conqueror's Haki."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest/scale-to-width-down/348?cb=20240829145447"
+        },
+        {
+            "category": "characters",
+            "tag": "blackbeard",
+            "patterns": [
+                "Who is Blackbeard?",
+                "Marshall D Teach",
+                "Tell me about Blackbeard",
+                "Blackbeard abilities"
+            ],
+            "responses": [
+                "Marshall D. Teach, known as Blackbeard, is the Admiral of the Blackbeard Pirates and one of the Yonko. He is a former member of Whitebeard's crew. He is the only known person in history to wield the powers of two Devil Fruits simultaneously: the Yami Yami no Mi (Darkness) and the Gura Gura no Mi (Quake)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/439?cb=20240128044952"
+        },
+        {
+            "category": "characters",
+            "tag": "mihawk",
+            "patterns": [
+                "Who is Mihawk?",
+                "Dracule Mihawk",
+                "Tell me about Mihawk",
+                "Hawkeye Mihawk"
+            ],
+            "responses": [
+                "Dracule 'Hawkeye' Mihawk is a world-renowned pirate who holds the title of the 'World's Strongest Swordsman.' He was a member of the Seven Warlords of the Sea until their dissolution and has since co-founded the Cross Guild alongside Crocodile, with Buggy serving as the figurehead."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/bf/Dracule_Mihawk_Anime_Infobox.png/revision/latest/scale-to-width-down/322?cb=20151222105910"
+        },
+        {
+            "category": "characters",
+            "tag": "law",
+            "patterns": [
+                "Who is Law?",
+                "Trafalgar Law",
+                "Tell me about Law",
+                "Surgeon of Death"
+            ],
+            "responses": [
+                "Trafalgar D. Water Law, known as the 'Surgeon of Death,' is the captain of the Heart Pirates and a member of the Worst Generation. He ate the Ope Ope no Mi, giving him the power to create a spherical 'Room' where he can manipulate anything in a surgical manner. He allied with Luffy to defeat Doflamingo and Kaido."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/4d/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/222?cb=20230124163510"
+        },
+        {
+            "category": "characters",
+            "tag": "kid",
+            "patterns": [
+                "Who is Kid?",
+                "Eustass Kid",
+                "Tell me about Kid",
+                "Eustass Captain Kid"
+            ],
+            "responses": [
+                "Eustass 'Captain' Kid is the captain of the Kid Pirates and a prominent member of the Worst Generation. He possesses the Jiki Jiki no Mi (Magnet-Magnet Fruit), allowing him to manipulate magnetic forces. He is known for his aggressive and brutal nature and fought alongside Luffy and Law in Wano."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/47/Eustass_Kid_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/420?cb=20240505021859"
+        },
+        {
+            "category": "characters",
+            "tag": "ace",
+            "patterns": [
+                "Who is Ace?",
+                "Portgas D Ace",
+                "Fire Fist Ace",
+                "Tell me about Ace"
+            ],
+            "responses": [
+                "Portgas D. Ace ('Fire Fist Ace') was the biological son of the Pirate King, Gol D. Roger, and the sworn older brother of Luffy and Sabo. He was the commander of the 2nd Division of the Whitebeard Pirates and ate the Mera Mera no Mi (Flame-Flame Fruit). His capture by Blackbeard triggered the Summit War of Marineford, where he died protecting Luffy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest/scale-to-width-down/299?cb=20240629132600"
+        },
+        {
+            "category": "characters",
+            "tag": "sabo",
+            "patterns": [
+                "Who is Sabo?",
+                "Sabo Revolutionary",
+                "Tell me about Sabo",
+                "Who is Luffy's brother Sabo?"
+            ],
+            "responses": [
+                "Sabo is the Chief of Staff of the Revolutionary Army, making him second-in-command under Monkey D. Dragon. He is the sworn brother of Luffy and Ace. Long believed dead, he resurfaced in Dressrosa, where he won Ace's reborn Devil Fruit, the Mera Mera no Mi."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Sabo_Anime_Infobox.png/revision/latest/scale-to-width-down/330?cb=20230804035141"
+        },
+        {
+            "category": "characters",
+            "tag": "dragon",
+            "patterns": [
+                "Who is Dragon?",
+                "Monkey D Dragon",
+                "Tell me about Dragon",
+                "Luffy's father"
+            ],
+            "responses": [
+                "Monkey D. Dragon, known as the 'World's Worst Criminal,' is the Supreme Commander of the Revolutionary Army. He is the father of Monkey D. Luffy and the son of Monkey D. Garp. His goal is to overthrow the corrupt World Government and the Celestial Dragons."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/f5/Monkey_D._Dragon_Anime_Infobox.png/revision/latest/scale-to-width-down/343?cb=20250621010227"
+        },
+        {
+            "category": "characters",
+            "tag": "roger",
+            "patterns": [
+                "Who is Gol D Roger?",
+                "Gold Roger",
+                "Tell me about Gold Roger",
+                "Who is the Pirate King?"
+            ],
+            "responses": [
+                "Gol D. Roger, known to the world as Gold Roger, was the legendary Pirate King, captain of the Roger Pirates, and owner of the legendary treasure, the One Piece. His execution sparked the Great Pirate Era, as his final words challenged everyone to find his treasure in the Grand Line."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230612100153"
+        },
+        {
+            "category": "characters",
+            "tag": "whitebeard",
+            "patterns": [
+                "Who is Whitebeard?",
+                "Edward Newgate",
+                "Tell me about Whitebeard",
+                "Strongest Man in the World"
+            ],
+            "responses": [
+                "Edward Newgate, known as Whitebeard, was the Captain of the Whitebeard Pirates and was widely hailed as the 'Strongest Man in the World' and the closest person to the One Piece after Roger's death. He ate the Gura Gura no Mi (Quake-Quake Fruit). He treated his crew members as his sons and died at the Battle of Marineford."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b7/Edward_Newgate_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220926165737"
+        },
+        {
+            "category": "characters",
+            "tag": "garp",
+            "patterns": [
+                "Who is Garp?",
+                "Monkey D Garp",
+                "Marine Hero Garp",
+                "Luffy's grandfather"
+            ],
+            "responses": [
+                "Monkey D. Garp is a legendary Marine Vice Admiral and the grandfather of Luffy and Sabo, and father of Dragon. Known as the 'Hero of the Marines,' he is famous for cornering Gol D. Roger and defeating the Rocks Pirates alongside Roger at God Valley. He refused promotions to Admiral to maintain his freedom."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e1/Monkey_D._Garp_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230207160645"
+        },
+        {
+            "category": "characters",
+            "tag": "sengoku",
+            "patterns": [
+                "Who is Sengoku?",
+                "Sengoku the Buddha",
+                "Fleet Admiral Sengoku"
+            ],
+            "responses": [
+                "Sengoku the Buddha is a former Fleet Admiral of the Marines. He ate the Hito Hito no Mi, Model: Daibutsu (Giant Buddha), which allows him to transform into a golden Buddha and emit devastating shockwaves. He is a master tactician and was one of the major Marine figures during Roger's era."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Sengoku_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/362?cb=20210208064630"
+        },
+        {
+            "category": "characters",
+            "tag": "akainu",
+            "patterns": [
+                "Who is Akainu?",
+                "Sakazuki",
+                "Fleet Admiral Akainu",
+                "Who killed Ace?"
+            ],
+            "responses": [
+                "Sakazuki, known by his former alias Akainu, is the current Fleet Admiral of the Marines. He is a firm believer in 'Absolute Justice' and possesses the Magu Magu no Mi (Magma-Magma Fruit). He killed Portgas D. Ace during the Marineford War and defeated Aokiji in a 10-day duel on Punk Hazard for the position of Fleet Admiral."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d7/Sakazuki_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/299?cb=20220829052511"
+        },
+        {
+            "category": "characters",
+            "tag": "aokiji",
+            "patterns": [
+                "Who is Aokiji?",
+                "Kuzan",
+                "Former Admiral Aokiji"
+            ],
+            "responses": [
+                "Kuzan, known by his former alias Aokiji, is a former Marine Admiral who adheres to 'Lazy Justice.' He possesses the Hie Hie no Mi (Ice-Ice Fruit). After losing the duel for Fleet Admiral to Sakazuki, he resigned from the Marines and has shockingly aligned himself with the Blackbeard Pirates as one of their Ten Titanic Captains."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Kuzan_Anime_Post_Timeskip_Infobox.png/revision/latest/scale-to-width-down/407?cb=20240811021341"
+        },
+        {
+            "category": "characters",
+            "tag": "kizaru",
+            "patterns": [
+                "Who is Kizaru?",
+                "Borsalino",
+                "Admiral Kizaru"
+            ],
+            "responses": [
+                "Borsalino, known as Kizaru, is a Marine Admiral who follows 'Unclear Justice.' He ate the Pika Pika no Mi (Glint-Glint Fruit), giving him light-speed movement and light-based attacks. He has a laid-back, sarcastic demeanor but is extremely dangerous."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/1/14/Borsalino_Anime_Infobox.png/revision/latest/scale-to-width-down/248?cb=20190603023753"
+        },
+        {
+            "category": "characters",
+            "tag": "fujitora",
+            "patterns": [
+                "Who is Fujitora?",
+                "Issho",
+                "Admiral Fujitora"
+            ],
+            "responses": [
+                "Issho, known as Fujitora, is a blind Marine Admiral who represents 'Humane Justice.' He blinded himself to avoid seeing the evils of the world. He possesses the Zushi Zushi no Mi (Press-Press Fruit), allowing him to manipulate gravity, and was instrumental in dismantling the Warlord system."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Issho_Anime_Infobox.png/revision/latest/scale-to-width-down/308?cb=20220718140829"
+        },
+        {
+            "category": "characters",
+            "tag": "kaido",
+            "patterns": [
+                "Who is Kaido?",
+                "Kaido of the Beasts",
+                "Strongest Creature in the World"
+            ],
+            "responses": [
+                "Kaido of the Beasts was the Governor-General of the Beast Pirates and one of the Yonko. Hailed as the 'Strongest Creature in the World,' he ate the Uo Uo no Mi, Model: Seiryu (Fish-Fish Fruit, Model: Azure Dragon). He ruled Wano Country with Orochi until his defeat by Monkey D. Luffy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/2d/Kaidou_Anime_Infobox.png/revision/latest/scale-to-width-down/483?cb=20231102015517"
+        },
+        {
+            "category": "characters",
+            "tag": "big_mom",
+            "patterns": [
+                "Who is Big Mom?",
+                "Charlotte Linlin",
+                "Tell me about Big Mom"
+            ],
+            "responses": [
+                "Charlotte Linlin, known as Big Mom, was the Captain of the Big Mom Pirates, ruler of Totto Land, and one of the Yonko. She ate the Soru Soru no Mi (Soul-Soul Fruit), which allows her to extract and manipulate souls. She was defeated in Wano by Trafalgar Law and Eustass Kid."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/d8/Charlotte_Linlin_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20180423150804"
+        },
+        {
+            "category": "characters",
+            "tag": "katakuri",
+            "patterns": [
+                "Who is Katakuri?",
+                "Charlotte Katakuri",
+                "Luffy vs Katakuri character"
+            ],
+            "responses": [
+                "Charlotte Katakuri is the second son of Charlotte Linlin and the strongest of the Big Mom Pirates' Sweet Commanders. He possesses the Mochi Mochi no Mi (a special Paramecia) and is famous for training his Observation Haki to the point of seeing seconds into the future. He fought a legendary duel against Luffy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/2e/Charlotte_Katakuri_Anime_Infobox.png/revision/latest/scale-to-width-down/333?cb=20230204155539"
+        },
+        {
+            "category": "characters",
+            "tag": "crocodile",
+            "patterns": [
+                "Who is Crocodile?",
+                "Sir Crocodile",
+                "Mr 0",
+                "Baroque Works leader"
+            ],
+            "responses": [
+                "Sir Crocodile is the former president of Baroque Works (under the alias Mr. 0) and a former Warlord who attempted to conquer Alabasta. He ate the Suna Suna no Mi (Sand-Sand Fruit). After escaping Impel Down, he co-founded the Cross Guild with Mihawk and Buggy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Crocodile_Anime_Infobox.png/revision/latest/scale-to-width-down/398?cb=20230125235528"
+        },
+        {
+            "category": "characters",
+            "tag": "doflamingo",
+            "patterns": [
+                "Who is Doflamingo?",
+                "Donquixote Doflamingo",
+                "Joker One Piece",
+                "Heavenly Yaksha"
+            ],
+            "responses": [
+                "Donquixote Doflamingo, nicknamed 'Heavenly Yaksha' and known in the underworld as 'Joker,' is a former Warlord, former Celestial Dragon, and tyrant king of Dressrosa. He ate the Ito Ito no Mi (String-String Fruit), enabling him to manipulate strings. Luffy defeated him, leading to his imprisonment in Impel Down Level 6."
+            ],
+            "image": "https://cdn.myanimelist.net/images/characters/9/101891.jpg"
+        }
+    ]
+}

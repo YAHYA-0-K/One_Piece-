@@ -1,0 +1,66 @@
+{
+    "intents": [
+        {
+            "category": "powers",
+            "tag": "swordsmanship",
+            "patterns": [
+                "Swordsmanship in One Piece",
+                "Grades of swords",
+                "Meito grades",
+                "What is a black blade?",
+                "Yoru",
+                "Enma",
+                "Wado Ichimonji"
+            ],
+            "responses": [
+                "Swords in One Piece are categorized into Meito (famous blades) grades: \n1. Supreme Grade (Saijo O Wazamono) - 12 blades, including Mihawk's Yoru and Whitebeard's Murakumogiri.\n2. Great Grade (O Wazamono) - 21 blades, including Zoro's Wado Ichimonji and Enma.\n3. Skillful Grade (Ryo Wazamono) - 50 blades.\n4. Grade (Wazamono). A 'Black Blade' is a sword that has been permanently turned black through the constant infusion of high-level Armament Haki and battles by its wielder, increasing its durability and grade. Only two are known: Mihawk's Yoru and Ryuma's Shusui."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/c2/Swordsman_Infobox.png/revision/latest/scale-to-width-down/500?cb=20231009025745"
+        },
+        {
+            "category": "powers",
+            "tag": "rokushiki",
+            "patterns": [
+                "What is Rokushiki?",
+                "Six Powers",
+                "CP9 combat style",
+                "Geppo",
+                "Soru",
+                "Tekkai",
+                "Rokuogan"
+            ],
+            "responses": [
+                "Rokushiki (Six Powers) is a special superhuman martial arts style taught to Cipher Pol agents and some Marines. The six techniques are: \n1. Soru (high-speed movement)\n2. Tekkai (hardening the body like iron)\n3. Geppo (jumping off the air to fly)\n4. Rankyaku (kicking air pressure to create slicing winds)\n5. Shigan (piercing targets with fingers at high speed)\n6. Kami-e (making the body limp to dodge like paper). Rob Lucci also mastered a secret seventh technique, Rokuogan (emitting a devastating physical shockwave)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/64/Stussy_Dodges_Lucci.png/revision/latest/scale-to-width-down/500?cb=20240512150510"
+        },
+        {
+            "category": "powers",
+            "tag": "fishman_karate",
+            "patterns": [
+                "What is Fish-Man Karate?",
+                "Fishman Karate",
+                "Jinbe martial art",
+                "Water manipulation martial art"
+            ],
+            "responses": [
+                "Fish-Man Karate is a deadly martial art practiced primarily by fish-men, though humans can learn it too. Its core mechanic is the mastery and manipulation of water, including the water molecules within an opponent's body or the humidity in the surrounding air. This allows practitioners to deliver shockwaves that bypass standard physical armor or rubber elasticity, making it highly effective against Luffy."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Fish-Man_Karate_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250209021249"
+        },
+        {
+            "category": "powers",
+            "tag": "haki_vs_devil_fruit",
+            "patterns": [
+                "Haki vs Devil Fruit",
+                "Does Haki cancel Devil Fruits?",
+                "How does Haki affect Devil Fruits?",
+                "Haki countering Devil Fruits"
+            ],
+            "responses": [
+                "Haki does not cancel out or erase a Devil Fruit ability like Seastone or the Yami Yami no Mi does. Instead, Armament Haki allows an attacker to bypass the defensive properties of a Devil Fruit (such as hitting a Logia's solid body or hurt Luffy's rubber body). Furthermore, a person with extremely powerful Haki can actively resist or completely nullify status-affecting Devil Fruit powers (such as Law undoing Doc Q's disease fruit, or Kaido/Big Mom resisting Law's teleportation)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/92/Devil_Fruit_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240421115906"
+        }
+    ]
+}

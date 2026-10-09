@@ -1,0 +1,101 @@
+{
+    "intents": [
+        {
+            "category": "crews",
+            "tag": "straw_hat_crew",
+            "patterns": [
+                "Tell me about the Straw Hat Pirates",
+                "Who are the Straw Hats?",
+                "Luffy's crew",
+                "Straw Hat crew members",
+                "How many members are in the Straw Hat Pirates?"
+            ],
+            "responses": [
+                "The Straw Hat Pirates (Mugiwarano Ichimi) are a rising legendary pirate crew led by Monkey D. Luffy. The crew currently has 10 official members: Luffy (Captain), Zoro (Swordsman), Nami (Navigator), Usopp (Sniper), Sanji (Cook), Chopper (Doctor), Robin (Archaeologist), Franky (Shipwright), Brook (Musician), and Jinbe (Helmsman). They sail on the Thousand Sunny."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Straw_Hat_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20250208214549"
+        },
+        {
+            "category": "crews",
+            "tag": "straw_hat_joining_order",
+            "patterns": [
+                "What is the joining order of the Straw Hats?",
+                "Who joined the Straw Hats first?",
+                "In what order did Luffy's crew members join?",
+                "Straw Hat recruitment order"
+            ],
+            "responses": [
+                "The order in which the Straw Hat Pirates officially joined Luffy is: \n1. Roronoa Zoro (Romance Dawn Arc)\n2. Nami (Arlong Park Arc - officially joined after defeating Arlong)\n3. Usopp (Syrup Village Arc)\n4. Sanji (Baratie Arc)\n5. Tony Tony Chopper (Drum Island Arc)\n6. Nico Robin (Alabasta/Post-Alabasta Arc)\n7. Franky (Water 7/Enies Lobby Arc)\n8. Brook (Thriller Bark Arc)\n9. Jinbe (Whole Cake Island/Wano Arc - officially joined during Wano)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Straw_Hat_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20250208214549"
+        },
+        {
+            "category": "crews",
+            "tag": "straw_hat_dreams",
+            "patterns": [
+                "What are the dreams of the Straw Hats?",
+                "What does each Straw Hat want to achieve?",
+                "Dreams of the crew",
+                "Straw Hat crew goals"
+            ],
+            "responses": [
+                "Each Straw Hat crew member has a lifelong dream: \n- Luffy: Become the Pirate King and find the One Piece.\n- Zoro: Become the World's Strongest Swordsman.\n- Nami: Map the entire world.\n- Usopp: Become a brave warrior of the sea.\n- Sanji: Find the All Blue.\n- Chopper: Cure all diseases.\n- Robin: Discover the True History of the Void Century.\n- Franky: Sail his dream ship (Thousand Sunny) to the end of the world.\n- Brook: Reunite with the whale Laboon.\n- Jinbe: Bring equality between humans and fish-men."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/87/Straw_Hat_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20250208214549"
+        },
+        {
+            "category": "crews",
+            "tag": "red_hair_pirates",
+            "patterns": [
+                "Tell me about the Red Hair Pirates",
+                "Shanks crew",
+                "Who is in Shanks' crew?",
+                "Red Hair Pirates members"
+            ],
+            "responses": [
+                "The Red Hair Pirates, led by Yonko Shanks, are known for having the most balanced and impenetrable crew bounty distribution. Major members include Benn Beckman (First Mate), Yasopp (Sniper and Usopp's father), Lucky Roux (Combatant), and Limejuice. They are a crew of pure Haki users with no known Devil Fruit powers among the core executives."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/8/81/Red_Hair_Pirates%27_Jolly_Roger.png/revision/latest?cb=20231029033157"
+        },
+        {
+            "category": "crews",
+            "tag": "blackbeard_pirates",
+            "patterns": [
+                "Tell me about the Blackbeard Pirates",
+                "Blackbeard crew",
+                "Ten Titanic Captains",
+                "Blackbeard Pirates members"
+            ],
+            "responses": [
+                "The Blackbeard Pirates are led by Marshall D. Teach and base themselves on Hachinosu (Pirate Island). The crew is centered around the 'Ten Titanic Captains,' which includes Jesus Burgess, Shiryu of the Rain, Van Augur, Lafitte, Doc Q, Avalo Pizarro, Vasco Shot, Sanjuan Wolf, Catarina Devon, and former Marine Admiral Kuzan (Aokiji). They actively hunt powerful Devil Fruits to steal their abilities."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Blackbeard_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20181123105002"
+        },
+        {
+            "category": "crews",
+            "tag": "whitebeard_pirates",
+            "patterns": [
+                "Tell me about the Whitebeard Pirates",
+                "Whitebeard crew",
+                "Whitebeard commanders"
+            ],
+            "responses": [
+                "The Whitebeard Pirates were one of the strongest pirate crews in the world, led by Edward Newgate. The crew was structured into 16 divisions, each led by a powerful commander. Famous commanders include Marco the Phoenix (1st Division), Portgas D. Ace (2nd Division), Jozu (3rd Division), and Vista (5th Division). The crew was disbanded after their defeat in the Payback War against the Blackbeard Pirates."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/45/Whitebeard_Pirates%27_Jolly_Roger.png/revision/latest/scale-to-width-down/500?cb=20130406172315"
+        },
+        {
+            "category": "crews",
+            "tag": "roger_pirates",
+            "patterns": [
+                "Tell me about the Roger Pirates",
+                "Gold Roger's crew",
+                "Who was in Gol D. Roger's crew?"
+            ],
+            "responses": [
+                "The Roger Pirates were the legendary crew of the Pirate King, Gol D. Roger, and the only crew known to have conquered the Grand Line and reached Laugh Tale. Famous members include Silvers Rayleigh (Dark King and First Mate), Scopper Gaban, Crocus (Doctor), and apprentices Shanks and Buggy. Kozuki Oden also sailed with them to translate the Poneglyphs."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/ff/Roger_Pirates%27_Jolly_Roger.png/revision/latest?cb=20181010222110"
+        }
+    ]
+}

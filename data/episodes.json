@@ -1,0 +1,148 @@
+{
+    "intents": [
+        {
+            "category": "episodes",
+            "tag": "gear_2_debut",
+            "patterns": [
+                "When does Gear 2 appear?",
+                "What episode is Gear 2?",
+                "Luffy unlocks Gear Second",
+                "Luffy vs Blueno episode"
+            ],
+            "responses": [
+                "Luffy first uses Gear 2 (Gear Second) in his fight against CP9 member Blueno. In the anime, this occurs in Episode 272. In the manga, it is introduced in Chapter 387. Gear 2 accelerates his blood flow using his rubber body, vastly increasing his speed and power."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/1/11/Gear_2_Techniques_Infobox.png/revision/latest/scale-to-width-down/349?cb=20141006152806"
+        },
+        {
+            "category": "episodes",
+            "tag": "gear_3_debut",
+            "patterns": [
+                "When does Gear 3 appear?",
+                "What episode is Gear 3?",
+                "Luffy unlocks Gear Third",
+                "Luffy giant arm episode"
+            ],
+            "responses": [
+                "Luffy's Gear 3 (Gear Third) is first teased in Episode 273 (manga Chapter 388) and fully revealed in his fight against Rob Lucci in Episode 288 (manga Chapter 403). Gear 3 involves Luffy biting his thumb and blowing air directly into his bones, making his limbs giant to deliver massive, heavy attacks."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/3/37/Gear_3.png/revision/latest/scale-to-width-down/500?cb=20230202005357"
+        },
+        {
+            "category": "episodes",
+            "tag": "gear_4_debut",
+            "patterns": [
+                "When does Gear 4 appear?",
+                "What episode is Gear 4?",
+                "Luffy unlocks Gear Fourth",
+                "Luffy vs Doflamingo Gear 4 episode"
+            ],
+            "responses": [
+                "Luffy reveals Gear 4 (Gear Fourth - Boundman) during his battle against Donquixote Doflamingo in Dressrosa. In the anime, this happens in Episode 726 (manga Chapter 784). He later reveals other forms: Tankman (Episode 806) and Snakeman (Episode 870 during his fight with Katakuri). Gear 4 coats his inflated muscles in Armament Haki."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/5/56/Gear_4_Infobox.png/revision/latest/scale-to-width-down/500?cb=20170830213511"
+        },
+        {
+            "category": "episodes",
+            "tag": "gear_5_debut",
+            "patterns": [
+                "When does Gear 5 appear?",
+                "What episode is Gear 5?",
+                "Luffy unlocks Gear Fifth",
+                "Joy Boy returns episode",
+                "Luffy vs Kaido Gear 5 episode"
+            ],
+            "responses": [
+                "Luffy unlocks Gear 5 (Gear Fifth), the awakening of his Devil Fruit, during the climax of his battle against Kaido on Onigashima. In the anime, it debuts in Episode 1071 (manga Chapter 1044). In this form, Luffy represents the Warrior of Liberation, Sun God Nika, allowing him to fight with complete freedom, cartoonish physics, and turning his surroundings into rubber."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/66/Gear_5_Infobox.png/revision/latest/scale-to-width-down/397?cb=20251221160520"
+        },
+        {
+            "category": "episodes",
+            "tag": "luffy_vs_doflamingo",
+            "patterns": [
+                "Luffy vs Doflamingo episode",
+                "When does Luffy fight Doflamingo?",
+                "Doflamingo defeat episode",
+                "Luffy defeats Doflamingo"
+            ],
+            "responses": [
+                "The final fight between Luffy and Doflamingo occurs in the Dressrosa Arc. In the anime, the battle starts around Episode 721, and Luffy officially defeats Doflamingo using Gear 4 King Kong Gun in Episode 733 (manga Chapter 790)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/6/61/Episode_723.png/revision/latest/scale-to-width-down/500?cb=20151220172320"
+        },
+        {
+            "category": "episodes",
+            "tag": "luffy_vs_katakuri",
+            "patterns": [
+                "Luffy vs Katakuri episode",
+                "When does Luffy fight Katakuri?",
+                "Katakuri fight duration",
+                "Luffy defeats Katakuri"
+            ],
+            "responses": [
+                "Luffy's legendary duel against Charlotte Katakuri takes place in Mirror World during the Whole Cake Island Arc. The battle spans from Episode 850 to Episode 871. Luffy defeats Katakuri using his new Gear 4 Snakeman form in Episode 871 (manga Chapter 896)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/e/ee/Episode_852.png/revision/latest/scale-to-width-down/500?cb=20180902020836"
+        },
+        {
+            "category": "episodes",
+            "tag": "luffy_vs_kaido",
+            "patterns": [
+                "Luffy vs Kaido episode",
+                "When does Luffy fight Kaido?",
+                "Kaido defeat episode",
+                "Luffy defeats Kaido"
+            ],
+            "responses": [
+                "Luffy and Kaido fight multiple times on Onigashima in the Wano Arc. The final round begins in Episode 1049, Luffy unlocks Gear 5 in Episode 1071, and he ultimately defeats Kaido with his Bajrang Gun in Episode 1076 (manga Chapter 1049)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/1/1e/Chapter_923.png/revision/latest/scale-to-width-down/309?cb=20190305204900"
+        },
+        {
+            "category": "episodes",
+            "tag": "aces_death",
+            "patterns": [
+                "When does Ace die?",
+                "Ace's death episode",
+                "What episode does Ace die in?",
+                "Luffy's brother dies episode"
+            ],
+            "responses": [
+                "Portgas D. Ace is tragically killed by Admiral Akainu while protecting Luffy during the Battle of Marineford. In the anime, Ace dies in Episode 483 (manga Chapter 574)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/99/Chapter_574.png/revision/latest/scale-to-width-down/316?cb=20220716172429"
+        },
+        {
+            "category": "episodes",
+            "tag": "rogers_execution",
+            "patterns": [
+                "When was Roger executed?",
+                "Gold Roger execution episode",
+                "Start of Great Pirate Era episode",
+                "Roger's last words episode"
+            ],
+            "responses": [
+                "Gol D. Roger was executed in Loguetown. In the anime, his execution and final words are shown in Episode 1 and revisited in flashback episodes like Episode 48 and Episode 968 (which shows his final voyage)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/24/Gol_D._Roger_Anime_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230612100153"
+        },
+        {
+            "category": "episodes",
+            "tag": "joining_episodes",
+            "patterns": [
+                "When does Zoro join?",
+                "When does Sanji join?",
+                "When does Robin join?",
+                "When does Nami join?",
+                "When does Chopper join?",
+                "When does Brook join?",
+                "When does Jinbe join?"
+            ],
+            "responses": [
+                "Straw Hat crew official joining episodes: \n- Zoro: Episode 3 (Romance Dawn Arc)\n- Nami: Episode 8 (initial alliance), Episode 43 (officially joins after Arlong Park)\n- Usopp: Episode 17 (Syrup Village Arc)\n- Sanji: Episode 30 (Baratie Arc)\n- Chopper: Episode 90 (Drum Island Arc)\n- Robin: Episode 130 (post-Alabasta), Episode 278 (re-joins after Enies Lobby)\n- Franky: Episode 322 (Water 7 Arc)\n- Brook: Episode 381 (Thriller Bark Arc)\n- Jinbe: Episode 872 (pledges loyalty in Whole Cake), Episode 980 (officially joins in Wano)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Episode_130.png/revision/latest/scale-to-width-down/500?cb=20130228221441"
+        }
+    ]
+}

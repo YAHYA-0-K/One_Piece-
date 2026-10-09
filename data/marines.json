@@ -1,0 +1,60 @@
+{
+    "intents": [
+        {
+            "category": "marines",
+            "tag": "marines_overview",
+            "patterns": [
+                "What are the Marines?",
+                "Marine structure",
+                "Explain the Marine force",
+                "Marine ranks"
+            ],
+            "responses": [
+                "The Marines (Kaihei) are the World Government's primary military force, tasked with law enforcement and combatting piracy across all seas. They are headed by the Fleet Admiral, followed by three Admirals (the 'Greatest Military Powers'), Vice Admirals, Rear Admirals, and other lower officers. Their headquarters is New Marineford in the New World (formerly Marineford)."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/d/dc/Marines_Infobox.png/revision/latest/scale-to-width-down/500?cb=20210110121711"
+        },
+        {
+            "category": "marines",
+            "tag": "marine_admirals",
+            "patterns": [
+                "Who are the Marine Admirals?",
+                "Admirals list",
+                "Name the Admirals",
+                "Original three Admirals",
+                "Current Admirals"
+            ],
+            "responses": [
+                "The Marine Admirals are the three strongest individuals in the Marines: \n- Original pre-timeskip Admirals: Aokiji (Kuzan), Akainu (Sakazuki), and Kizaru (Borsalino).\n- Current post-timeskip Admirals: Kizaru (Borsalino), Fujitora (Issho), and Ryokugyu (Aramaki/Green Bull). Kuzan resigned, and Sakazuki was promoted to Fleet Admiral."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/c/c3/Admiral_Infobox.png/revision/latest/scale-to-width-down/500?cb=20230328180459"
+        },
+        {
+            "category": "marines",
+            "tag": "ryokugyu",
+            "patterns": [
+                "Who is Ryokugyu?",
+                "Aramaki",
+                "Green Bull Admiral"
+            ],
+            "responses": [
+                "Aramaki, known by his alias Ryokugyu (Green Bull), is a Marine Admiral who was drafted during the two-year time skip alongside Fujitora. He ate the Mori Mori no Mi (Woods-Woods Fruit), a Logia-like Paramecia/Zoan-type fruit that allows him to transform into and control plant life. He is a fanatical supporter of the Celestial Dragons and Absolute Justice."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/0/05/Aramaki_Anime_Infobox.png/revision/latest/scale-to-width-down/291?cb=20240930142146"
+        },
+        {
+            "category": "marines",
+            "tag": "seraphim_pacifistas",
+            "patterns": [
+                "What are Pacifistas?",
+                "What are the Seraphim?",
+                "SSG",
+                "Dr Vegapunk weapons"
+            ],
+            "responses": [
+                "Pacifistas are human weapons (cyborgs) designed by Marine scientist Dr. Vegapunk, modeled after Warlord Bartholomew Kuma and armed with Admiral Kizaru's lasers. The upgraded models, the Seraphim, are cyborg clones of the former Warlords of the Sea (e.g., S-Hawk clone of Mihawk, S-Snake clone of Hancock) infused with Lunarian DNA (giving them brown skin, white hair, black wings, and back-flames) and artificial Green Blood Devil Fruits. They are considered the strongest human weapons in history."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/7/74/Seraphim_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250308193906"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "intents": [
+        {
+            "category": "ships",
+            "tag": "going_merry",
+            "patterns": [
+                "Going Merry",
+                "Merry",
+                "Luffy's first ship",
+                "What happened to the Going Merry?",
+                "Merry's funeral"
+            ],
+            "responses": [
+                "The Going Merry was the Straw Hat Pirates' first ship, gifted to them by Kaya in Syrup Village. She sailed with the crew through the East Blue and halfway through the Grand Line, even developing a self-aware spirit (Klabautermann) due to the love of her crew. She was tragically damaged beyond repair during their adventures and was given a Viking funeral at the end of the Enies Lobby Arc, speaking to the crew one final time."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/4/41/Going_Merry_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240731210147"
+        },
+        {
+            "category": "ships",
+            "tag": "thousand_sunny",
+            "patterns": [
+                "Thousand Sunny",
+                "Sunny",
+                "Luffy's second ship",
+                "Who built the Thousand Sunny?",
+                "Sunny's features"
+            ],
+            "responses": [
+                "The Thousand Sunny is the Straw Hat Pirates' current ship, designed and built by Franky with the help of Iceburg and the Galley-La shipwrights using rare Adam Wood. She is double the size of the Going Merry and features unique elements like the Soldier Dock System (housing the Mini Merry and Shark Submerge), the Coup de Burst (a cola-powered flight mechanism), and the Gaon Cannon."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220904012119"
+        },
+        {
+            "category": "ships",
+            "tag": "oro_jackson",
+            "patterns": [
+                "Oro Jackson",
+                "Roger's ship",
+                "Gol D Roger ship",
+                "Ship of the Pirate King"
+            ],
+            "responses": [
+                "The Oro Jackson was the ship of the Roger Pirates, built by Franky's mentor, Tom, in Water 7. She was constructed using the legendary Adam Wood, the same wood later used to build the Thousand Sunny. She is the only ship known to have traversed the entire Grand Line to the final island, Laugh Tale."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Oro_Jackson_Infobox.png/revision/latest/scale-to-width-down/500?cb=20250207230706"
+        },
+        {
+            "category": "ships",
+            "tag": "polar_tang",
+            "patterns": [
+                "Polar Tang",
+                "Law's ship",
+                "Heart Pirates ship",
+                "One Piece submarine"
+            ],
+            "responses": [
+                "The Polar Tang is the ship of Trafalgar Law and the Heart Pirates. Uniquely, it is a steel-hulled submarine rather than a traditional wooden sailing ship, giving the crew a stealth advantage on the ocean. It is equipped with advanced medical facilities for Law's surgeries."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Polar_Tang_Infobox.png/revision/latest/scale-to-width-down/500?cb=20220830044659"
+        },
+        {
+            "category": "ships",
+            "tag": "red_force",
+            "patterns": [
+                "Red Force",
+                "Shanks' ship",
+                "Red Hair Pirates ship"
+            ],
+            "responses": [
+                "The Red Force is the flagship of the Red Hair Pirates, led by Shanks. It is a large, classic pirate ship decorated with palm trees and a red dragon figurehead, symbolizing the crew's relaxed yet formidable power."
+            ],
+            "image": "https://static.wikia.nocookie.net/onepiece/images/2/27/Red_Force_Infobox.png/revision/latest/scale-to-width-down/500?cb=20240716061311"
+        }
+    ]
+}

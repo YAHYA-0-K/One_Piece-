@@ -1,0 +1,87 @@
+{
+    "intents": [
+        {
+            "category": "general",
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "Ahoy",
+                "Good morning",
+                "Good evening",
+                "Anyone there?",
+                "Is anyone aboard?"
+            ],
+            "responses": [
+                "Ahoy, nakama! 🏴‍☠️ Welcome aboard! Ask me anything about the world of One Piece.",
+                "Yo-ho-ho! Welcome, traveler! Ready to set sail across the Grand Line?",
+                "Ahoy! Glad to have you on our ship. What would you like to know about the Great Pirate Era?"
+            ]
+        },
+        {
+            "category": "general",
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "Goodbye",
+                "See you",
+                "I am leaving",
+                "Set sail",
+                "Farewell"
+            ],
+            "responses": [
+                "Farewell, nakama! May the winds be in your favor on the Grand Line! 🌊🧭",
+                "Safe travels across the New World! Don't get lost like Zoro! 🗺️",
+                "Until next time, nakama! The sea is vast, but our paths will surely cross again!"
+            ]
+        },
+        {
+            "category": "general",
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "Thanks a lot",
+                "Much appreciated",
+                "Thank you so much"
+            ],
+            "responses": [
+                "No problem, nakama! Glad to help on your voyage! 🍖🍟",
+                "Yo-ho-ho! You're very welcome!",
+                "Anytime! We nakama stick together!"
+            ]
+        },
+        {
+            "category": "general",
+            "tag": "help",
+            "patterns": [
+                "Help",
+                "What can you do?",
+                "How do I use this?",
+                "What can I ask you?",
+                "Show me options",
+                "Guide me"
+            ],
+            "responses": [
+                "I am the One Piece Knowledge Assistant! 🏴‍☠️ You can ask me about: \n- Characters (Luffy, Zoro, Shanks, etc.)\n- Arcs & Episodes (Enies Lobby, Wano, Gear 5 debut, etc.)\n- Devil Fruits (Paramecia, Zoan, Logia, Awakened forms)\n- Haki (Conqueror's, Observation, Armament)\n- World Lore (Void Century, Poneglyphs, Ancient Weapons)\n- Bounties, Ships, and Mysteries!",
+                "Stuck on your voyage? I can provide detailed, canonical information about One Piece characters, crews, devil fruits, bounties, locations, and major history events! Try asking: 'Who is Joy Boy?' or 'Luffy bounty'."
+            ]
+        },
+        {
+            "category": "general",
+            "tag": "about",
+            "patterns": [
+                "Who made you?",
+                "What are you?",
+                "Tell me about this chatbot",
+                "What is your technology?",
+                "How do you work?"
+            ],
+            "responses": [
+                "I am a One Piece Knowledge Chatbot built using Python, NLTK, and a Logistic Regression machine learning model. I process your text using natural language processing to determine your intent and fetch canonical answers!",
+                "I am your navigation assistant for the Grand Line! Built with a Python-based NLP pipeline (using CountVectorizer, WordNetLemmatizer, and Logistic Regression), I help you search through One Piece archives."
+            ]
+        }
+    ]
+}

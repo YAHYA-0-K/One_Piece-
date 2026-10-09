@@ -1,0 +1,240 @@
+{
+  "characters": {
+    "luffy": [
+      "/static/images/characters/luffy.png",
+      "https://cdn.myanimelist.net/images/characters/9/310307.jpg"
+    ],
+    "zoro": [
+      "/static/images/characters/zoro.png",
+      "https://cdn.myanimelist.net/images/characters/3/100534.jpg"
+    ],
+    "nami": [
+      "/static/images/characters/nami.png",
+      "https://cdn.myanimelist.net/images/characters/2/263249.jpg"
+    ],
+    "usopp": [
+      "/static/images/characters/usopp.png",
+      "https://cdn.myanimelist.net/images/characters/16/100537.jpg"
+    ],
+    "sanji": [
+      "/static/images/characters/sanji.png",
+      "https://cdn.myanimelist.net/images/characters/5/100539.jpg"
+    ],
+    "chopper": [
+      "/static/images/characters/chopper.png",
+      "https://cdn.myanimelist.net/images/characters/3/481977.jpg"
+    ],
+    "robin": [
+      "/static/images/characters/robin.png",
+      "https://cdn.myanimelist.net/images/characters/12/100541.jpg"
+    ],
+    "franky": [
+      "/static/images/characters/franky.png",
+      "https://cdn.myanimelist.net/images/characters/12/101897.jpg"
+    ],
+    "brook": [
+      "/static/images/characters/brook.png",
+      "https://cdn.myanimelist.net/images/characters/4/102061.jpg"
+    ],
+    "jinbe": [
+      "/static/images/characters/jinbe.png",
+      "https://cdn.myanimelist.net/images/characters/12/157299.jpg"
+    ],
+    "shanks": [
+      "/static/images/characters/shanks.png",
+      "https://cdn.myanimelist.net/images/characters/12/100543.jpg"
+    ],
+    "blackbeard": [
+      "/static/images/characters/blackbeard.png",
+      "https://cdn.myanimelist.net/images/characters/8/101895.jpg"
+    ],
+    "mihawk": [
+      "/static/images/characters/mihawk.png",
+      "https://cdn.myanimelist.net/images/characters/7/101885.jpg"
+    ],
+    "law": [
+      "/static/images/characters/law.png",
+      "https://cdn.myanimelist.net/images/characters/4/119421.jpg"
+    ],
+    "kid": [
+      "/static/images/characters/kid.png",
+      "https://cdn.myanimelist.net/images/characters/6/101887.jpg"
+    ],
+    "ace": [
+      "/static/images/characters/ace.png",
+      "https://cdn.myanimelist.net/images/characters/4/101869.jpg"
+    ],
+    "sabo": [
+      "/static/images/characters/sabo.png",
+      "https://cdn.myanimelist.net/images/characters/15/263233.jpg"
+    ],
+    "dragon": [
+      "/static/images/characters/dragon.png",
+      "https://cdn.myanimelist.net/images/characters/12/101871.jpg"
+    ],
+    "roger": [
+      "/static/images/characters/roger.png",
+      "https://cdn.myanimelist.net/images/characters/6/114949.jpg"
+    ],
+    "whitebeard": [
+      "/static/images/characters/whitebeard.png",
+      "https://cdn.myanimelist.net/images/characters/14/101893.jpg"
+    ],
+    "garp": [
+      "/static/images/characters/garp.png",
+      "https://cdn.myanimelist.net/images/characters/10/101889.jpg"
+    ],
+    "sengoku": [
+      "/static/images/characters/sengoku.png",
+      "https://cdn.myanimelist.net/images/characters/8/101879.jpg"
+    ],
+    "akainu": [
+      "/static/images/characters/akainu.png",
+      "https://cdn.myanimelist.net/images/characters/9/105423.jpg"
+    ],
+    "aokiji": [
+      "/static/images/characters/aokiji.png",
+      "https://cdn.myanimelist.net/images/characters/11/101875.jpg"
+    ],
+    "kizaru": [
+      "/static/images/characters/kizaru.png",
+      "https://cdn.myanimelist.net/images/characters/3/101877.jpg"
+    ],
+    "fujitora": [
+      "/static/images/characters/fujitora.png",
+      "https://cdn.myanimelist.net/images/characters/14/249117.jpg"
+    ],
+    "kaido": [
+      "/static/images/characters/kaido.png",
+      "https://cdn.myanimelist.net/images/characters/5/341998.jpg"
+    ],
+    "big_mom": [
+      "/static/images/characters/big_mom.png",
+      "https://cdn.myanimelist.net/images/characters/10/328905.jpg"
+    ],
+    "katakuri": [
+      "/static/images/characters/katakuri.png",
+      "https://cdn.myanimelist.net/images/characters/15/354027.jpg"
+    ],
+    "crocodile": [
+      "/static/images/characters/crocodile.png",
+      "https://cdn.myanimelist.net/images/characters/3/101881.jpg"
+    ],
+    "doflamingo": [
+      "/static/images/characters/doflamingo.png",
+      "https://cdn.myanimelist.net/images/characters/9/101891.jpg"
+    ]
+  },
+  "devil_fruits": {
+    "devil_fruits_overview": [
+      "/static/images/devil_fruits/overview.png"
+    ],
+    "paramecia": [
+      "/static/images/devil_fruits/paramecia.png"
+    ],
+    "zoan": [
+      "/static/images/devil_fruits/zoan.png"
+    ],
+    "logia": [
+      "/static/images/devil_fruits/logia.png"
+    ],
+    "mythical_zoan": [
+      "/static/images/devil_fruits/mythical_zoan.png"
+    ],
+    "nika": [
+      "/static/images/devil_fruits/nika.png"
+    ]
+  },
+  "haki": {
+    "haki_overview": [
+      "/static/images/haki/overview.png"
+    ],
+    "observation_haki": [
+      "/static/images/haki/observation.png"
+    ],
+    "armament_haki": [
+      "/static/images/haki/armament.png"
+    ],
+    "conquerors_haki": [
+      "/static/images/haki/conquerors.png"
+    ]
+  },
+  "locations": {
+    "grand_line": [
+      "/static/images/locations/grand_line.png",
+      "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    ],
+    "laugh_tale": [
+      "/static/images/locations/laugh_tale.png",
+      "https://cdn.myanimelist.net/images/anime/6/114949.jpg"
+    ],
+    "wano_country": [
+      "/static/images/locations/wano_country.png",
+      "https://cdn.myanimelist.net/images/anime/1101/116035.jpg"
+    ],
+    "wano": [
+      "/static/images/locations/wano.png",
+      "https://cdn.myanimelist.net/images/anime/1101/116035.jpg"
+    ],
+    "dressrosa": [
+      "/static/images/locations/dressrosa.png",
+      "https://cdn.myanimelist.net/images/anime/3/59385.jpg"
+    ],
+    "whole_cake_island": [
+      "/static/images/locations/whole_cake_island.png",
+      "https://cdn.myanimelist.net/images/anime/12/85148.jpg"
+    ],
+    "egghead_island": [
+      "/static/images/locations/egghead_island.png",
+      "https://cdn.myanimelist.net/images/anime/1815/140228.jpg"
+    ],
+    "egghead": [
+      "/static/images/locations/egghead.png",
+      "https://cdn.myanimelist.net/images/anime/1815/140228.jpg"
+    ],
+    "marineford": [
+      "/static/images/locations/marineford.png",
+      "https://cdn.myanimelist.net/images/anime/3/28434.jpg"
+    ],
+    "skypiea": [
+      "/static/images/locations/skypiea.png",
+      "https://cdn.myanimelist.net/images/anime/13/11261.jpg"
+    ],
+    "water_7_enies_lobby": [
+      "/static/images/locations/water_7_enies_lobby.png",
+      "https://cdn.myanimelist.net/images/anime/10/77514.jpg"
+    ],
+    "sabaody": [
+      "/static/images/locations/sabaody.png",
+      "https://cdn.myanimelist.net/images/anime/13/12028.jpg"
+    ],
+    "alabasta": [
+      "/static/images/locations/alabasta.png",
+      "https://cdn.myanimelist.net/images/anime/6/28169.jpg"
+    ],
+    "east_blue": [
+      "/static/images/locations/east_blue.png",
+      "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    ]
+  },
+  "ships": {
+    "going_merry": [
+      "/static/images/ships/going_merry.png",
+      "https://cdn.myanimelist.net/images/characters/14/102057.jpg"
+    ],
+    "thousand_sunny": [
+      "/static/images/ships/thousand_sunny.png",
+      "https://cdn.myanimelist.net/images/characters/16/102059.jpg"
+    ],
+    "oro_jackson": [
+      "/static/images/ships/oro_jackson.png",
+      "https://cdn.myanimelist.net/images/characters/6/114949.jpg"
+    ]
+  },
+  "hero": {
+    "ensemble": [
+      "/static/images/hero/ensemble.png",
+      "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    ]
+  }
+}
